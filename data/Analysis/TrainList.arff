@@ -1,0 +1,29 @@
+@relation PoemFinder
+
+@attribute jaggedMean numeric
+@attribute jaggedSD numeric
+@attribute jaggedMin numeric
+@attribute jaggedMax numeric
+@attribute jaggedRange numeric
+@attribute marginMean numeric
+@attribute marginSD numeric
+@attribute marginMin numeric
+@attribute marginMax numeric
+@attribute marginRange numeric
+@attribute stanzaMean numeric
+@attribute stanzaSD numeric
+@attribute stanzaMin numeric
+@attribute stanzaMax numeric
+@attribute stanzaRange numeric
+@attribute lengthMean numeric
+@attribute lengthSD numeric
+@attribute lengthMin numeric
+@attribute lengthMax numeric
+@attribute lengthRange numeric
+@attribute label {false,true}
+
+@data
+144.22058526740665,294.19689176071466,160884.0,161102.0,0.0,144.02542885973764,293.79879041868475,0.0,738.0,738.0,7.054945054945055,5.071711325204802,1.0,20.0,19.0,622.8052516411378,373.99149674295626,0.0,738.0,738.0,false
+192.0952573158426,326.2331702543052,159408.0,159624.0,0.0,191.83531786074673,325.79171806181773,0.0,738.0,738.0,10.032967032967033,6.186569198632048,1.0,30.0,29.0,573.4617067833698,382.6448300689707,0.0,738.0,738.0,false
+176.58446014127145,316.97281588219454,168264.0,168492.0,0.0,176.34550958627648,316.54389461578035,0.0,738.0,738.0,9.302083333333334,6.453551657270833,1.0,27.0,26.0,577.7680525164113,382.05560301789535,0.0,738.0,738.0,false
+616.8524722502523,299.12677828237804,67158.0,67249.0,0.0,616.0177598385469,298.72200591665506,0.0,738.0,738.0,81.48780487804878,161.5122319540858,1.0,757.0,756.0,125.78118161925602,259.2219625821591,0.0,738.0,738.0,false
