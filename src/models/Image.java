@@ -367,7 +367,7 @@ public class Image {
 		}
 		
 		
-		System.out.println(whiteColumns);
+		//System.out.println(whiteColumns);
 		ArrayList<Integer> columns = new ArrayList<Integer>();
 		int marker = 0;
 		/*Search for the part of the array that makes a large jump, this indicates the end of
@@ -396,15 +396,15 @@ public class Image {
 			count++;
 		}
 		mean = mean/count;
-		System.out.println("Mean: "+mean);
+		//System.out.println("Mean: "+mean);
 		int vari = 0;
 		for(int p = 0; p < columns.size()-1; p++){
 			vari += Math.pow((columns.get(p+1)-columns.get(p))-mean, 2);
 		}
-		System.out.println("Vari: "+vari);
-		System.out.println("Count: "+count);
+		//System.out.println("Vari: "+vari);
+		//System.out.println("Count: "+count);
 		double stdDev = Math.ceil(Math.sqrt(vari/count));
-		System.out.println("StdDev: "+stdDev);
+		//System.out.println("StdDev: "+stdDev);
 		
 		int check = 0;
 		for(int l = 0; l < columns.size()-1; l++){
@@ -445,7 +445,7 @@ public class Image {
 					marker = k+1;
 				}
 			}
-			System.out.println("Black Columns "+blackColumns);
+			//System.out.println("Black Columns "+blackColumns);
 			Collections.sort(columns);
 //		}
 		
@@ -486,15 +486,15 @@ public class Image {
 			count++;
 		}
 		mean = mean/count;
-		System.out.println("Mean: "+mean);
+		//System.out.println("Mean: "+mean);
 		vari = 0;
 		for(int p = 0; p < columns.size()-1; p++){
 			vari += Math.pow((columns.get(p+1)-columns.get(p))-mean, 2);
 			
 		}
 		stdDev = Math.ceil(Math.sqrt(vari/count));
-		System.out.println("StdDev: "+stdDev);
-		System.out.println(columns);
+		//System.out.println("StdDev: "+stdDev);
+		//System.out.println(columns);
 		for(int p = 1; p < columns.size()-1; p++){
 			if(columns.get(p)-columns.get(p-1) < mean-10){
 				if(columns.get(p+1)-columns.get(p-1) < mean+(stdDev) && columns.get(p+1)-columns.get(p-1) > mean-stdDev){
@@ -504,15 +504,15 @@ public class Image {
 				}
 			}
 		}
-		System.out.println(columns);
+		//System.out.println(columns);
 		ArrayList<Integer> columnWidth = new ArrayList<Integer>();
 		for(int p = 0; p < columns.size()-1; p++){
 			columnWidth.add(columns.get(p+1)-columns.get(p));
 		}
 		Collections.sort(columnWidth);
-		System.out.println(columnWidth);
+		//System.out.println(columnWidth);
 		int averageWidth = columnWidth.get((int) Math.floor(columnWidth.size()/2));
-		System.out.println("Average Width: "+averageWidth);
+		//System.out.println("Average Width: "+averageWidth);
 		for(int p = columns.size()-1; p >= 1; p--){
 			if(columns.get(p-1) < columns.get(p)-averageWidth-75){
 				columns.add(p, columns.get(p)-averageWidth);
@@ -525,7 +525,7 @@ public class Image {
 			}
 		}
 		
-		System.out.println(columns);
+		//System.out.println(columns);
 		if(columns.size()<3){
 			throw new RuntimeException();
 		}
@@ -604,17 +604,24 @@ public class Image {
 	
 	/**
 	 * Final step in segmentation algorithm. Once column breaks have been found this method
-	 * will use those breakpoints to dynamically create snippets of varying width and constant height.
+	 * will use those breakpoints to dynamically create snippets of varying width and height (a 14/9 ratio).
 	 * Snippets are outputted to the directory noted by Constants.Snippets and are grouped together by the full page they came from.
 	 */
-	public void convertPageToSnippets(){
+	public void convertPageToSnippets(boolean scaleDown){
 		int height = snippetHeight();
 		int nextBegin = 0;
 		int nextEnd = height;
 		int snippetRow = 0;
 		int snippetColumn = 0;
+		//Identify the parent image name.
+		String snippetSubName = this.getName().substring(0, this.getName().lastIndexOf('.'));
+		String issueName = snippetSubName.substring(0, snippetSubName.lastIndexOf('_'));
+		String parentName = this.getName().substring(0, this.getName().indexOf('_'));
+		
+		//populate snippet matrix with pixels from full page.
 		for(int i = 0; i < columnBreaks.size()-1; i++){
-			int[][] snippet = new int[height][columnBreaks.get(i+1) - columnBreaks.get(i)];
+			int width = columnBreaks.get(i+1) - columnBreaks.get(i);
+			int[][] snippet = new int[height][width];
 			int c = 0;
 			for(int j = columnBreaks.get(i); j < columnBreaks.get(i+1); j++){
 				int r = 0;
@@ -625,29 +632,46 @@ public class Image {
 				c++;
 			}
 			
-			String snippetSubName = this.getName().substring(0, this.getName().lastIndexOf('.'));
+			//identify the location of snippet in the full page. Use as name of the snippet
 			String snippetName = snippetSubName+"_"+snippetRow+"_"+snippetColumn+".jpg";
 			
-			BufferedImage OutputImage = new BufferedImage(columnBreaks.get(i+1) - columnBreaks.get(i), height, BufferedImage.TYPE_INT_RGB);
-			for (int y = 0; y < height; y++) {
-				for (int x = 0; x < columnBreaks.get(i+1) - columnBreaks.get(i); x++) {
-					//The following line offsets the pixels' values to fix the 'blue problem'
-					int value = snippet[y][x] << 16 | snippet[y][x] << 8 | snippet[y][x];
-					OutputImage.setRGB(x, y, value);
+			//Create BufferedImage for file writing. If scale down is needed perform that
+			//first. For the time being scale is hard coded at 4x4.
+			BufferedImage OutputImage;
+			if(scaleDown){
+				int scale = 4;
+				int[][] scaledSnippet = scaleDownSnippet(scale, snippet, height, width);
+				
+				OutputImage = new BufferedImage(width/scale, height/scale, BufferedImage.TYPE_INT_RGB);
+				for (int y = 0; y < height/scale; y++) {
+					for (int x = 0; x < width/scale; x++) {
+						//The following line offsets the pixels' values to fix the 'blue problem'
+						int value = scaledSnippet[y][x] << 16 | scaledSnippet[y][x] << 8 | scaledSnippet[y][x];
+						OutputImage.setRGB(x, y, value);
+					}
+				}
+			}else{
+				OutputImage = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
+				for (int y = 0; y < height; y++) {
+					for (int x = 0; x < width; x++) {
+						//The following line offsets the pixels' values to fix the 'blue problem'
+						int value = snippet[y][x] << 16 | snippet[y][x] << 8 | snippet[y][x];
+						OutputImage.setRGB(x, y, value);
+					}
 				}
 			}
 			
 			//Output the snippet to a file of our choosing
-			File outputFile = new File(Constants.Snippets,snippetName);
+			File outputFile = new File(Constants.Snippets+parentName+"/"+issueName+"/"+snippetSubName+"/",snippetName);
 			outputFile.mkdirs();
 			try {
 				ImageIO.write(OutputImage, "jpg", outputFile);
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 			snippetColumn++;
 			
+			//determine if row is complete, if yes move to next row, and if not move to next column
 			if(i == columnBreaks.size() - 2){
 				nextBegin = nextEnd - (height/2);
 				nextEnd = nextBegin + height;
@@ -660,28 +684,51 @@ public class Image {
 		}
 	}
 	
-	public void scaleDown(int scale){
+	/**
+	 * When given an integer to represent the scale (3 for 3x3, 4 for 4x4, 5 for 5x5, etc)
+	 * this function will average the pixels of the snippet based on the given scale.
+	 * @param scale
+	 * @param snippet
+	 * @param height
+	 * @param width
+	 * @return
+	 */
+	private int[][] scaleDownSnippet(int scale, int[][] snippet, int height, int width){
 		int r = 0,s = 0;
-		int[][] scaledImage = new int[this.vertical/scale][this.horizontal/scale];
-		for(int i = (int)Math.ceil(scale/2); i < this.vertical - (int)Math.ceil(scale/2); i = i+scale){
+		int[][] scaledImage = new int[height/scale][width/scale];
+		for(int i = scale/2; i < height - (scale/2); i = i+scale){
 			s = 0;
-			for(int j = (int)Math.ceil(scale/2); j < this.horizontal - (int)Math.ceil(scale/2); j = j+scale){
-				scaledImage[r][s] = average(scale, i, j);
+			for(int j = scale/2; j < width - (scale/2); j = j+scale){
+				scaledImage[r][s] = average(scale, snippet, i, j);
 				s++;
 			}
 			r++;
 		}
-		this.setByteImage(scaledImage);
-		System.out.println("SET");
-		this.setByteImage2(scaledImage);
-		this.setVertical(r);
-		this.setHorizontal(s);
+		return scaledImage;
 	}
-	private int average(int scale, int i, int j){
+	
+	/**
+	 * returns the average pixel value of a pixels scale x scale area.
+	 * This function can use both odd and even numbers.
+	 * @param scale
+	 * @param snippet
+	 * @param i
+	 * @param j
+	 * @return
+	 */
+	private int average(int scale, int[][] snippet, int i, int j){
 		int sum = 0;
-		for(int a = i-(scale/2); a < i+(scale/2); a++){
-			for(int b = j-(scale/2); b < j+(scale/2); b++){
-				sum+=this.byteImage[i][j];
+		if(scale%2 == 0){
+			for(int a = i-(scale/2); a < i+(scale/2); a++){
+				for(int b = j-(scale/2); b < j+(scale/2); b++){
+					sum+=snippet[i][j];
+				}
+			}
+		}else{
+			for(int a = i-(scale/2); a <= i+(scale/2); a++){
+				for(int b = j-(scale/2); b <= j+(scale/2); b++){
+					sum+=snippet[i][j];
+				}
 			}
 		}
 		return sum/(scale*scale);

@@ -11,7 +11,7 @@ public class Constants {
 
 	//Complete Set
 	public static final String filePath = "../data/DriveImages/";
-	public static final String fullPagePath = "../data/Newspaper_images/";
+	public static final String fullPagePath = "../data/FullPages/";
 	public static final String testPath = "../data/test_snippets/";
 
 
@@ -20,7 +20,7 @@ public class Constants {
 	public static final String customOutput = "../data/Output_Custom/";
 	public static final String outputFilePath = "../data/Output_Weka/";
 
-	public static final String attributeOutputFolder = "../Output_attribute/";
+	public static final String attributeOutputFolder = "../data/Output_attribute/";
 	public static final String attributeOutput = "../data/Output_attribute/Attributes.csv";
 	public static final String data = "../data/";
 	public static final String analysisFileDirectory = "../data/Analysis/";

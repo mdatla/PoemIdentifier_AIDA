@@ -237,7 +237,7 @@ public class ImageBlurrer {
 			}
 		}
 		long average = points/(h*w);
-		System.out.println(average);
+//		System.out.println(average);
 		
 		if(average > 120){
 			int pixels[][] = new int[h][w];
@@ -274,7 +274,6 @@ public class ImageBlurrer {
 		else{
 			bni = stf.generateBinaryImage(bli);
 		}
-		
 //		BufferedImage OutputImage = new BufferedImage(w,h,BufferedImage.TYPE_INT_RGB);
 //
 //		/***** This Segment is meant for printing out Binary images*****/
@@ -311,7 +310,7 @@ public class ImageBlurrer {
 		im.setByteImage(bni.getBinaryImagePixels());
 		
 		if(shouldOutput){
-			System.out.println("Writing Binary Image..");
+			//System.out.println("Writing Binary Image..");
 			//outputImage(OutputImage, Constants.binaryOutput,"binary.jpg");
 			outputImage(OutputImage2, Constants.binaryOutput,"binary_cleaned.jpg");
 		}

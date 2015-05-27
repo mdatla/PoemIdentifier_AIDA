@@ -102,7 +102,7 @@ public class ThresholdFinder {
 		}
 		    
 		threshold = min1; 
-		System.out.println(threshold);
+		//System.out.println(threshold);
 		return threshold;
 	}
 	
