@@ -5,10 +5,7 @@ echo "Hello"
 javac execute/PrepareProgram.java
 java execute/PrepareProgram
 javac execute/RunPageSegmentaion.java
-java execute/RunPageSegmentaion FullImageList.txt
-cd ../data/Output_Snippets
-ls *.jpg >> ../Image_Lists/ImageList.txt
-cd ../../
+java execute/RunPageSegmentaion
 
 NOME=$1
 c=0

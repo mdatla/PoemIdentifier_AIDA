@@ -1,0 +1,397 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/1.json", 
+  "batches": [
+    {
+      "name": "batch_dlc_quarren_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_quarren_ver01.json", 
+      "page_count": 9934, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2015-03-24T09:58:39-04:00"
+    }, 
+    {
+      "name": "batch_in_godloveorth_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_in_godloveorth_ver01.json", 
+      "page_count": 11474, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/in.json", 
+        "name": "Indiana State Library"
+      }, 
+      "lccns": [
+        "sn87055779"
+      ], 
+      "ingested": "2015-03-23T15:29:37-04:00"
+    }, 
+    {
+      "name": "batch_dlc_romulan_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_romulan_ver01.json", 
+      "page_count": 2966, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2015-03-18T10:28:46-04:00"
+    }, 
+    {
+      "name": "batch_msar_goldenharvest_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_msar_goldenharvest_ver01.json", 
+      "page_count": 9271, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/msar.json", 
+        "name": "Mississippi Department of Archives and History"
+      }, 
+      "lccns": [
+        "sn87090028", 
+        "sn87065532", 
+        "sn87065295", 
+        "sn87065298", 
+        "sn85034374", 
+        "sn87065204", 
+        "sn84020048", 
+        "sn87065199", 
+        "sn87065188", 
+        "sn87065296", 
+        "sn83016865", 
+        "sn83016883", 
+        "sn83016788", 
+        "sn83016789", 
+        "sn87065304", 
+        "sn87065297", 
+        "sn83016784", 
+        "sn83016785", 
+        "sn83016940", 
+        "sn87065294"
+      ], 
+      "ingested": "2015-03-16T11:54:52-04:00"
+    }, 
+    {
+      "name": "batch_idhi_cather_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_idhi_cather_ver01.json", 
+      "page_count": 9957, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/idhi.json", 
+        "name": "Idaho State Historical Society"
+      }, 
+      "lccns": [
+        "sn86091172"
+      ], 
+      "ingested": "2015-03-16T09:30:39-04:00"
+    }, 
+    {
+      "name": "batch_ohi_odoric_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_odoric_ver01.json", 
+      "page_count": 4792, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn85038145", 
+        "sn85038153"
+      ], 
+      "ingested": "2015-03-09T16:32:26-04:00"
+    }, 
+    {
+      "name": "batch_khi_forbes_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_khi_forbes_ver01.json", 
+      "page_count": 10178, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/khi.json", 
+        "name": "Kansas State Historical Society; Topeka, KS"
+      }, 
+      "lccns": [
+        "sn82016014"
+      ], 
+      "ingested": "2015-03-09T14:56:45-04:00"
+    }, 
+    {
+      "name": "batch_mthi_fox_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mthi_fox_ver01.json", 
+      "page_count": 9688, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mthi.json", 
+        "name": "Montana Historical Society; Helena, MT"
+      }, 
+      "lccns": [
+        "sn85053117", 
+        "sn84038123", 
+        "sn86075108", 
+        "sn86075109", 
+        "sn83025313", 
+        "sn85053328", 
+        "sn86075089", 
+        "sn85053327"
+      ], 
+      "ingested": "2015-03-04T16:22:56-05:00"
+    }, 
+    {
+      "name": "batch_iune_headline_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_iune_headline_ver02.json", 
+      "page_count": 9757, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/iune.json", 
+        "name": "University of Illinois at Urbana-Champaign Library, Urbana, IL"
+      }, 
+      "lccns": [
+        "sn92053241", 
+        "sn92053240", 
+        "sn84038364", 
+        "sn92053934", 
+        "sn92053933"
+      ], 
+      "ingested": "2015-03-04T13:12:42-05:00"
+    }, 
+    {
+      "name": "batch_idhi_dickens_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_idhi_dickens_ver01.json", 
+      "page_count": 10176, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/idhi.json", 
+        "name": "Idaho State Historical Society"
+      }, 
+      "lccns": [
+        "sn84022135", 
+        "sn86091172", 
+        "sn89055026", 
+        "sn89055027", 
+        "sn86091092", 
+        "sn82015407"
+      ], 
+      "ingested": "2015-03-04T09:46:36-05:00"
+    }, 
+    {
+      "name": "batch_ohi_norgay_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_norgay_ver01.json", 
+      "page_count": 5357, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn84028193", 
+        "sn84028194", 
+        "sn88077067"
+      ], 
+      "ingested": "2015-03-03T11:45:53-05:00"
+    }, 
+    {
+      "name": "batch_fu_emerson_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_emerson_ver01.json", 
+      "page_count": 9008, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn95047297", 
+        "sn87062268", 
+        "sn78001466", 
+        "sn95047299", 
+        "sn95047298"
+      ], 
+      "ingested": "2015-03-03T09:39:06-05:00"
+    }, 
+    {
+      "name": "batch_lu_ivysaur_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_ivysaur_ver01.json", 
+      "page_count": 8264, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn88064249", 
+        "sn88064317", 
+        "sn88064293", 
+        "sn88064299"
+      ], 
+      "ingested": "2015-02-26T12:22:56-05:00"
+    }, 
+    {
+      "name": "batch_dlc_protoss_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_protoss_ver01.json", 
+      "page_count": 9930, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2015-02-26T10:30:52-05:00"
+    }, 
+    {
+      "name": "batch_ct_fairfield_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ct_fairfield_ver01.json", 
+      "page_count": 10720, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ct.json", 
+        "name": "Connecticut State Library, Hartford, CT"
+      }, 
+      "lccns": [
+        "sn82014086", 
+        "sn84022472"
+      ], 
+      "ingested": "2015-02-25T12:32:14-05:00"
+    }, 
+    {
+      "name": "batch_wa_lopez_ver03", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wa_lopez_ver03.json", 
+      "page_count": 6714, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wa.json", 
+        "name": "Washington State Library; Olympia, WA"
+      }, 
+      "lccns": [
+        "sn88085101", 
+        "sn88085081", 
+        "sn88085204", 
+        "sn88085523", 
+        "sn83045604"
+      ], 
+      "ingested": "2015-02-25T11:01:24-05:00"
+    }, 
+    {
+      "name": "batch_oru_jefferson_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_jefferson_ver01.json", 
+      "page_count": 6354, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn90066132", 
+        "sn99063957"
+      ], 
+      "ingested": "2015-02-25T10:10:14-05:00"
+    }, 
+    {
+      "name": "batch_msar_fluttershy_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_msar_fluttershy_ver01.json", 
+      "page_count": 7334, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/msar.json", 
+        "name": "Mississippi Department of Archives and History"
+      }, 
+      "lccns": [
+        "sn83016867", 
+        "sn87065032", 
+        "sn87065028", 
+        "sn87065030", 
+        "sn87065033"
+      ], 
+      "ingested": "2015-02-24T13:33:30-05:00"
+    }, 
+    {
+      "name": "batch_okhi_endive_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_okhi_endive_ver01.json", 
+      "page_count": 10944, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/okhi.json", 
+        "name": "Oklahoma Historical Society"
+      }, 
+      "lccns": [
+        "sn86063952", 
+        "sn86090528"
+      ], 
+      "ingested": "2015-02-24T10:27:41-05:00"
+    }, 
+    {
+      "name": "batch_ndhi_hebron_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ndhi_hebron_ver01.json", 
+      "page_count": 9348, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ndhi.json", 
+        "name": "State Historical Society of North Dakota"
+      }, 
+      "lccns": [
+        "sn85042414"
+      ], 
+      "ingested": "2015-02-23T12:36:55-05:00"
+    }, 
+    {
+      "name": "batch_iune_gutter_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_iune_gutter_ver02.json", 
+      "page_count": 11809, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/iune.json", 
+        "name": "University of Illinois at Urbana-Champaign Library, Urbana, IL"
+      }, 
+      "lccns": [
+        "sn92053933"
+      ], 
+      "ingested": "2015-02-23T09:52:01-05:00"
+    }, 
+    {
+      "name": "batch_in_eugenedebs_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_in_eugenedebs_ver01.json", 
+      "page_count": 9971, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/in.json", 
+        "name": "Indiana State Library"
+      }, 
+      "lccns": [
+        "sn87055779"
+      ], 
+      "ingested": "2015-02-23T08:25:50-05:00"
+    }, 
+    {
+      "name": "batch_wa_juno_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wa_juno_ver02.json", 
+      "page_count": 7060, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wa.json", 
+        "name": "Washington State Library; Olympia, WA"
+      }, 
+      "lccns": [
+        "sn84022770"
+      ], 
+      "ingested": "2015-02-20T10:11:23-05:00"
+    }, 
+    {
+      "name": "batch_wvu_kuwait_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wvu_kuwait_ver02.json", 
+      "page_count": 1745, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wvu.json", 
+        "name": "West Virginia University"
+      }, 
+      "lccns": [
+        "sn86092163", 
+        "sn85059716", 
+        "sn84026772", 
+        "sn85059862"
+      ], 
+      "ingested": "2015-02-19T14:46:25-05:00"
+    }, 
+    {
+      "name": "batch_lu_arbok_ver04", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_arbok_ver04.json", 
+      "page_count": 7658, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn82003383", 
+        "sn88064122", 
+        "sn86079083", 
+        "sn82015753", 
+        "sn83016632", 
+        "sn86090609", 
+        "sn82015038", 
+        "sn86053686"
+      ], 
+      "ingested": "2015-02-19T11:41:19-05:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/3.json"
+}

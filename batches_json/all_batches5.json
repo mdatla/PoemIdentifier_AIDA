@@ -1,0 +1,384 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/4.json", 
+  "batches": [
+    {
+      "name": "batch_mthi_bison_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mthi_bison_ver01.json", 
+      "page_count": 9908, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mthi.json", 
+        "name": "Montana Historical Society; Helena, MT"
+      }, 
+      "lccns": [
+        "sn83045217", 
+        "sn84024808"
+      ], 
+      "ingested": "2014-12-10T15:05:47-05:00"
+    }, 
+    {
+      "name": "batch_nmu_javelina_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nmu_javelina_ver01.json", 
+      "page_count": 9244, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nmu.json", 
+        "name": "University of New Mexico"
+      }, 
+      "lccns": [
+        "sn84031081"
+      ], 
+      "ingested": "2014-12-10T13:36:39-05:00"
+    }, 
+    {
+      "name": "batch_ndhi_esmond_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ndhi_esmond_ver01.json", 
+      "page_count": 8678, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ndhi.json", 
+        "name": "State Historical Society of North Dakota"
+      }, 
+      "lccns": [
+        "sn85042373", 
+        "sn89074405", 
+        "sn89074404"
+      ], 
+      "ingested": "2014-12-10T12:18:02-05:00"
+    }, 
+    {
+      "name": "batch_fu_criser_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_criser_ver02.json", 
+      "page_count": 8382, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "2014271550", 
+        "sn84027621"
+      ], 
+      "ingested": "2014-12-10T10:46:48-05:00"
+    }, 
+    {
+      "name": "batch_khi_corbett_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_khi_corbett_ver01.json", 
+      "page_count": 11004, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/khi.json", 
+        "name": "Kansas State Historical Society; Topeka, KS"
+      }, 
+      "lccns": [
+        "sn82016014"
+      ], 
+      "ingested": "2014-12-09T16:40:07-05:00"
+    }, 
+    {
+      "name": "batch_dlc_hooloovoo_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_hooloovoo_ver01.json", 
+      "page_count": 10369, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2014-12-09T13:45:38-05:00"
+    }, 
+    {
+      "name": "batch_msar_braeburn_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_msar_braeburn_ver01.json", 
+      "page_count": 6537, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/msar.json", 
+        "name": "Mississippi Department of Archives and History"
+      }, 
+      "lccns": [
+        "sn85034374", 
+        "sn83016943"
+      ], 
+      "ingested": "2014-12-09T12:34:36-05:00"
+    }, 
+    {
+      "name": "batch_lu_diglett_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_diglett_ver01.json", 
+      "page_count": 8589, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn83016548", 
+        "sn88064094", 
+        "sn82015378"
+      ], 
+      "ingested": "2014-12-09T10:19:43-05:00"
+    }, 
+    {
+      "name": "batch_mohi_linus_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mohi_linus_ver01.json", 
+      "page_count": 13465, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mohi.json", 
+        "name": "State Historical Society of Missouri; Columbia, MO"
+      }, 
+      "lccns": [
+        "sn89066801", 
+        "sn89066129", 
+        "sn89066919", 
+        "sn89067083"
+      ], 
+      "ingested": "2014-12-08T17:35:05-05:00"
+    }, 
+    {
+      "name": "batch_ndhi_deering_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ndhi_deering_ver01.json", 
+      "page_count": 9384, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ndhi.json", 
+        "name": "State Historical Society of North Dakota"
+      }, 
+      "lccns": [
+        "sn85042373"
+      ], 
+      "ingested": "2014-12-08T16:24:52-05:00"
+    }, 
+    {
+      "name": "batch_scu_bogoff_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_scu_bogoff_ver01.json", 
+      "page_count": 9937, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/scu.json", 
+        "name": "University of South Carolina; Columbia, SC"
+      }, 
+      "lccns": [
+        "sn86063790", 
+        "sn84026907", 
+        "sn92065503"
+      ], 
+      "ingested": "2014-12-08T14:59:59-05:00"
+    }, 
+    {
+      "name": "batch_prru_arroz_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_prru_arroz_ver02.json", 
+      "page_count": 7721, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/prru.json", 
+        "name": "University of Puerto Rico, R\u00edo Piedras Campus, Library System"
+      }, 
+      "lccns": [
+        "2013201074"
+      ], 
+      "ingested": "2014-12-01T16:10:36-05:00"
+    }, 
+    {
+      "name": "batch_dlc_gonzo_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_gonzo_ver01.json", 
+      "page_count": 10414, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2014-12-01T13:24:44-05:00"
+    }, 
+    {
+      "name": "batch_oru_emily_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_emily_ver01.json", 
+      "page_count": 6169, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn97071110"
+      ], 
+      "ingested": "2014-11-17T15:53:06-05:00"
+    }, 
+    {
+      "name": "batch_okhi_cheddar_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_okhi_cheddar_ver01.json", 
+      "page_count": 10112, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/okhi.json", 
+        "name": "Oklahoma Historical Society"
+      }, 
+      "lccns": [
+        "sn86063952"
+      ], 
+      "ingested": "2014-11-17T14:25:02-05:00"
+    }, 
+    {
+      "name": "batch_dlc_fordprefect_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_fordprefect_ver01.json", 
+      "page_count": 10593, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2014-11-17T12:30:03-05:00"
+    }, 
+    {
+      "name": "batch_mimtptc_jackson_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mimtptc_jackson_ver01.json", 
+      "page_count": 9228, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mimtptc.json", 
+        "name": "Central Michigan University, Clark Historical Library"
+      }, 
+      "lccns": [
+        "sn86086633", 
+        "2013218776"
+      ], 
+      "ingested": "2014-11-17T11:13:27-05:00"
+    }, 
+    {
+      "name": "batch_lu_charizard_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_charizard_ver01.json", 
+      "page_count": 7176, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn86079110", 
+        "sn89059000", 
+        "sn88064491", 
+        "sn93062881", 
+        "sn87091084", 
+        "sn89059463", 
+        "sn86053854", 
+        "sn84020181", 
+        "sn83016702", 
+        "sn86053662", 
+        "sn86053661", 
+        "sn86053659", 
+        "sn86079076", 
+        "sn86053765", 
+        "sn88064473"
+      ], 
+      "ingested": "2014-11-17T09:53:06-05:00"
+    }, 
+    {
+      "name": "batch_in_ashbel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_in_ashbel_ver01.json", 
+      "page_count": 9576, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/in.json", 
+        "name": "Indiana State Library"
+      }, 
+      "lccns": [
+        "sn82015679"
+      ], 
+      "ingested": "2014-11-17T07:44:15-05:00"
+    }, 
+    {
+      "name": "batch_ndhi_colfax_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ndhi_colfax_ver01.json", 
+      "page_count": 8876, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ndhi.json", 
+        "name": "State Historical Society of North Dakota"
+      }, 
+      "lccns": [
+        "sn84024779", 
+        "sn85042373"
+      ], 
+      "ingested": "2014-11-14T09:09:49-05:00"
+    }, 
+    {
+      "name": "batch_mimtptc_hancock_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mimtptc_hancock_ver02.json", 
+      "page_count": 9545, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mimtptc.json", 
+        "name": "Central Michigan University, Clark Historical Library"
+      }, 
+      "lccns": [
+        "sn85033781", 
+        "sn96076839"
+      ], 
+      "ingested": "2014-11-13T10:50:48-05:00"
+    }, 
+    {
+      "name": "batch_msar_cloudchaser_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_msar_cloudchaser_ver01.json", 
+      "page_count": 10822, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/msar.json", 
+        "name": "Mississippi Department of Archives and History"
+      }, 
+      "lccns": [
+        "sn87065038", 
+        "sn87065034", 
+        "sn87065713", 
+        "sn86074098", 
+        "sn86074078", 
+        "sn87065696", 
+        "sn87065697", 
+        "sn87065694", 
+        "sn87065695", 
+        "sn83016867", 
+        "sn83016866", 
+        "sn83016865", 
+        "sn86053970", 
+        "sn85034299", 
+        "sn84020019", 
+        "sn83016926", 
+        "sn85034374", 
+        "sn87065704", 
+        "sn83016884", 
+        "sn83016943", 
+        "sn83016739", 
+        "sn83016736"
+      ], 
+      "ingested": "2014-11-12T08:57:35-05:00"
+    }, 
+    {
+      "name": "batch_lu_blastoise_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_blastoise_ver01.json", 
+      "page_count": 8746, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn88064476", 
+        "sn86079077", 
+        "sn88064537"
+      ], 
+      "ingested": "2014-11-06T12:09:57-05:00"
+    }, 
+    {
+      "name": "batch_ct_canaan_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ct_canaan_ver01.json", 
+      "page_count": 10002, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ct.json", 
+        "name": "Connecticut State Library, Hartford, CT"
+      }, 
+      "lccns": [
+        "sn82014086"
+      ], 
+      "ingested": "2014-11-03T06:35:29-05:00"
+    }, 
+    {
+      "name": "batch_okhi_bologna_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_okhi_bologna_ver02.json", 
+      "page_count": 10228, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/okhi.json", 
+        "name": "Oklahoma Historical Society"
+      }, 
+      "lccns": [
+        "sn85042303", 
+        "sn86063952"
+      ], 
+      "ingested": "2014-10-30T16:31:22-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/6.json"
+}

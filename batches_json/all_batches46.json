@@ -1,0 +1,366 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/45.json", 
+  "batches": [
+    {
+      "name": "batch_nbu_abbott_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_abbott_ver01.json", 
+      "page_count": 7098, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn95073194"
+      ], 
+      "ingested": "2013-07-08T15:53:33-04:00"
+    }, 
+    {
+      "name": "batch_az_kangaroorat_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_kangaroorat_ver01.json", 
+      "page_count": 9284, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn84020558", 
+        "sn84024827", 
+        "sn89077833", 
+        "sn89077832"
+      ], 
+      "ingested": "2013-07-08T15:57:59-04:00"
+    }, 
+    {
+      "name": "batch_uuml_armstrong_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_armstrong_ver01.json", 
+      "page_count": 12555, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058246"
+      ], 
+      "ingested": "2013-07-08T15:42:01-04:00"
+    }, 
+    {
+      "name": "batch_nn_neruda_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_neruda_ver01.json", 
+      "page_count": 4791, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T15:44:46-04:00"
+    }, 
+    {
+      "name": "batch_az_javelina_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_javelina_ver01.json", 
+      "page_count": 11480, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn84024827", 
+        "sn87082863"
+      ], 
+      "ingested": "2013-07-08T15:39:06-04:00"
+    }, 
+    {
+      "name": "batch_az_dragonfly_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_dragonfly_ver01.json", 
+      "page_count": 7569, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn95060905", 
+        "sn84024827", 
+        "sn96060681", 
+        "sn96060682", 
+        "sn96060683", 
+        "sn95060900", 
+        "sn94052361", 
+        "sn95060902", 
+        "sn95060903"
+      ], 
+      "ingested": "2013-07-08T16:03:31-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_hawk_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_hawk_ver01.json", 
+      "page_count": 12183, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn82016413"
+      ], 
+      "ingested": "2013-07-08T15:35:55-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_ice_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_ice_ver01.json", 
+      "page_count": 9451, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn82016413", 
+        "sn82016412"
+      ], 
+      "ingested": "2013-07-08T15:52:34-04:00"
+    }, 
+    {
+      "name": "batch_iune_bravo_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_iune_bravo_ver01.json", 
+      "page_count": 5823, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/iune.json", 
+        "name": "University of Illinois at Urbana-Champaign Library, Urbana, IL"
+      }, 
+      "lccns": [
+        "sn84025828"
+      ], 
+      "ingested": "2013-07-08T16:14:44-04:00"
+    }, 
+    {
+      "name": "batch_wa_dogwood_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wa_dogwood_ver01.json", 
+      "page_count": 15751, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wa.json", 
+        "name": "Washington State Library; Olympia, WA"
+      }, 
+      "lccns": [
+        "sn88085187", 
+        "sn88085190", 
+        "sn88085488"
+      ], 
+      "ingested": "2013-07-08T14:57:51-04:00"
+    }, 
+    {
+      "name": "batch_dlc_deltaair_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_deltaair_ver01.json", 
+      "page_count": 9238, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045433", 
+        "sn86053573", 
+        "sn86053572", 
+        "sn86053570"
+      ], 
+      "ingested": "2013-07-08T15:06:51-04:00"
+    }, 
+    {
+      "name": "batch_wa_fir_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wa_fir_ver01.json", 
+      "page_count": 20023, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wa.json", 
+        "name": "Washington State Library; Olympia, WA"
+      }, 
+      "lccns": [
+        "sn88085187", 
+        "sn88085523"
+      ], 
+      "ingested": "2013-07-08T14:27:43-04:00"
+    }, 
+    {
+      "name": "batch_nn_milosz_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_milosz_ver01.json", 
+      "page_count": 4957, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T15:25:53-04:00"
+    }, 
+    {
+      "name": "batch_pst_holuba_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_pst_holuba_ver02.json", 
+      "page_count": 12636, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/pst.json", 
+        "name": "Penn State University Libraries; University Park, PA"
+      }, 
+      "lccns": [
+        "sn83045211"
+      ], 
+      "ingested": "2013-07-08T14:48:37-04:00"
+    }, 
+    {
+      "name": "batch_mohi_kersee_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mohi_kersee_ver01.json", 
+      "page_count": 8831, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mohi.json", 
+        "name": "State Historical Society of Missouri; Columbia, MO"
+      }, 
+      "lccns": [
+        "sn84020274"
+      ], 
+      "ingested": "2013-07-08T15:03:53-04:00"
+    }, 
+    {
+      "name": "batch_pst_icecream_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_pst_icecream_ver01.json", 
+      "page_count": 11561, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/pst.json", 
+        "name": "Penn State University Libraries; University Park, PA"
+      }, 
+      "lccns": [
+        "sn83045211"
+      ], 
+      "ingested": "2013-07-08T14:44:20-04:00"
+    }, 
+    {
+      "name": "batch_kyu_aluminum_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_aluminum_ver01.json", 
+      "page_count": 7521, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn85052141", 
+        "sn86069675", 
+        "sn86069180", 
+        "sn87060004", 
+        "sn87060190", 
+        "sn86063242"
+      ], 
+      "ingested": "2013-07-08T15:28:08-04:00"
+    }, 
+    {
+      "name": "batch_dlc_alice_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_alice_ver01.json", 
+      "page_count": 5240, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030213"
+      ], 
+      "ingested": "2013-07-08T15:05:32-04:00"
+    }, 
+    {
+      "name": "batch_mohi_james_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mohi_james_ver01.json", 
+      "page_count": 4802, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mohi.json", 
+        "name": "State Historical Society of Missouri; Columbia, MO"
+      }, 
+      "lccns": [
+        "sn84020274"
+      ], 
+      "ingested": "2013-07-08T15:27:08-04:00"
+    }, 
+    {
+      "name": "batch_lu_angel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_angel_ver01.json", 
+      "page_count": 5302, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn88064555", 
+        "sn88064165", 
+        "sn88064554", 
+        "sn85034336"
+      ], 
+      "ingested": "2013-07-08T15:35:10-04:00"
+    }, 
+    {
+      "name": "batch_az_ironwood_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_ironwood_ver01.json", 
+      "page_count": 6351, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn84024827", 
+        "sn87082863", 
+        "sn84021913"
+      ], 
+      "ingested": "2013-07-08T15:21:11-04:00"
+    }, 
+    {
+      "name": "batch_mohi_gaines_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mohi_gaines_ver01.json", 
+      "page_count": 9482, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mohi.json", 
+        "name": "State Historical Society of Missouri; Columbia, MO"
+      }, 
+      "lccns": [
+        "sn84020274"
+      ], 
+      "ingested": "2013-07-08T14:19:44-04:00"
+    }, 
+    {
+      "name": "batch_mohi_ingalls_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mohi_ingalls_ver01.json", 
+      "page_count": 11463, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mohi.json", 
+        "name": "State Historical Society of Missouri; Columbia, MO"
+      }, 
+      "lccns": [
+        "sn84020274"
+      ], 
+      "ingested": "2013-07-08T14:07:30-04:00"
+    }, 
+    {
+      "name": "batch_ohi_foxtrot_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_foxtrot_ver01.json", 
+      "page_count": 14701, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn88077379", 
+        "sn88078751", 
+        "sn87076843", 
+        "sn87075048"
+      ], 
+      "ingested": "2013-07-08T14:03:18-04:00"
+    }, 
+    {
+      "name": "batch_az_gilamonster_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_gilamonster_ver01.json", 
+      "page_count": 9669, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn87062055", 
+        "sn87062054", 
+        "sn82016246", 
+        "sn82016245"
+      ], 
+      "ingested": "2013-07-08T14:57:36-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/47.json"
+}

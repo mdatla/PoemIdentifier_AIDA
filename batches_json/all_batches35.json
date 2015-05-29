@@ -1,0 +1,333 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/34.json", 
+  "batches": [
+    {
+      "name": "batch_iune_charlie_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_iune_charlie_ver01.json", 
+      "page_count": 6789, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/iune.json", 
+        "name": "University of Illinois at Urbana-Champaign Library, Urbana, IL"
+      }, 
+      "lccns": [
+        "sn84024055"
+      ], 
+      "ingested": "2013-07-09T09:32:18-04:00"
+    }, 
+    {
+      "name": "batch_vi_gualala_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_gualala_ver01.json", 
+      "page_count": 7456, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T09:08:04-04:00"
+    }, 
+    {
+      "name": "batch_kyu_dubnium_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_dubnium_ver01.json", 
+      "page_count": 6398, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069313", 
+        "sn86069496"
+      ], 
+      "ingested": "2013-07-09T09:30:16-04:00"
+    }, 
+    {
+      "name": "batch_vi_whitesnake_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_whitesnake_ver01.json", 
+      "page_count": 5492, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438"
+      ], 
+      "ingested": "2013-07-09T09:24:37-04:00"
+    }, 
+    {
+      "name": "batch_vi_ozzyosbourne_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_ozzyosbourne_ver01.json", 
+      "page_count": 4373, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85026941"
+      ], 
+      "ingested": "2013-07-09T09:19:08-04:00"
+    }, 
+    {
+      "name": "batch_vi_u2_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_u2_ver01.json", 
+      "page_count": 5103, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038614"
+      ], 
+      "ingested": "2013-07-09T09:20:56-04:00"
+    }, 
+    {
+      "name": "batch_wa_birch_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wa_birch_ver01.json", 
+      "page_count": 5480, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wa.json", 
+        "name": "Washington State Library; Olympia, WA"
+      }, 
+      "lccns": [
+        "sn88085488"
+      ], 
+      "ingested": "2013-07-09T09:28:34-04:00"
+    }, 
+    {
+      "name": "batch_uuml_one_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_one_ver01.json", 
+      "page_count": 8617, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T08:00:51-04:00"
+    }, 
+    {
+      "name": "batch_vi_vanhalen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_vanhalen_ver01.json", 
+      "page_count": 6026, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438"
+      ], 
+      "ingested": "2013-07-09T09:21:47-04:00"
+    }, 
+    {
+      "name": "batch_vi_foreigner_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_foreigner_ver01.json", 
+      "page_count": 6168, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85025007"
+      ], 
+      "ingested": "2013-07-09T09:02:30-04:00"
+    }, 
+    {
+      "name": "batch_vi_metallica_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_metallica_ver01.json", 
+      "page_count": 6400, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438"
+      ], 
+      "ingested": "2013-07-09T09:18:35-04:00"
+    }, 
+    {
+      "name": "batch_vi_queen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_queen_ver01.json", 
+      "page_count": 4530, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438"
+      ], 
+      "ingested": "2013-07-09T09:19:29-04:00"
+    }, 
+    {
+      "name": "batch_vi_hercules_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_hercules_ver01.json", 
+      "page_count": 5100, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T09:09:13-04:00"
+    }, 
+    {
+      "name": "batch_vi_darwin_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_darwin_ver01.json", 
+      "page_count": 5344, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038614"
+      ], 
+      "ingested": "2013-07-09T08:55:36-04:00"
+    }, 
+    {
+      "name": "batch_vi_xyz_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_xyz_ver01.json", 
+      "page_count": 2886, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn94059373"
+      ], 
+      "ingested": "2013-07-09T09:26:25-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_moon_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_moon_ver01.json", 
+      "page_count": 1660, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn82016339"
+      ], 
+      "ingested": "2013-07-09T09:32:52-04:00"
+    }, 
+    {
+      "name": "batch_vi_yes_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_yes_ver01.json", 
+      "page_count": 1446, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn84025841"
+      ], 
+      "ingested": "2013-07-09T09:27:35-04:00"
+    }, 
+    {
+      "name": "batch_vi_etna_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_etna_ver01.json", 
+      "page_count": 4010, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038614"
+      ], 
+      "ingested": "2013-07-09T09:01:35-04:00"
+    }, 
+    {
+      "name": "batch_vi_eagles_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_eagles_ver01.json", 
+      "page_count": 4687, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85025007"
+      ], 
+      "ingested": "2013-07-09T08:57:16-04:00"
+    }, 
+    {
+      "name": "batch_vi_grundy_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_grundy_ver01.json", 
+      "page_count": 3858, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T09:06:47-04:00"
+    }, 
+    {
+      "name": "batch_vi_kiss_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_kiss_ver01.json", 
+      "page_count": 3258, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038614"
+      ], 
+      "ingested": "2013-07-09T09:10:47-04:00"
+    }, 
+    {
+      "name": "batch_vi_albion_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_albion_ver01.json", 
+      "page_count": 6106, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438"
+      ], 
+      "ingested": "2013-07-09T08:37:45-04:00"
+    }, 
+    {
+      "name": "batch_vi_berea_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_berea_ver01.json", 
+      "page_count": 6445, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438", 
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T08:37:47-04:00"
+    }, 
+    {
+      "name": "batch_vi_ledzeppelin_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_ledzeppelin_ver01.json", 
+      "page_count": 2179, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438"
+      ], 
+      "ingested": "2013-07-09T09:14:53-04:00"
+    }, 
+    {
+      "name": "batch_vi_fairfax_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_fairfax_ver01.json", 
+      "page_count": 3518, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T09:01:49-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/36.json"
+}

@@ -1,0 +1,339 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/37.json", 
+  "batches": [
+    {
+      "name": "batch_nn_aristotle_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_aristotle_ver01.json", 
+      "page_count": 4961, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:09:00-04:00"
+    }, 
+    {
+      "name": "batch_nn_russell_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_russell_ver01.json", 
+      "page_count": 4642, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-09T00:33:14-04:00"
+    }, 
+    {
+      "name": "batch_nn_bentham_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_bentham_ver01.json", 
+      "page_count": 5194, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:10:29-04:00"
+    }, 
+    {
+      "name": "batch_nn_nietzsche_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_nietzsche_ver01.json", 
+      "page_count": 5264, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-09T00:20:15-04:00"
+    }, 
+    {
+      "name": "batch_nn_decartes_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_decartes_ver01.json", 
+      "page_count": 5098, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:22:41-04:00"
+    }, 
+    {
+      "name": "batch_nn_feyerabend_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_feyerabend_ver01.json", 
+      "page_count": 5172, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:25:53-04:00"
+    }, 
+    {
+      "name": "batch_nn_hypatia_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_hypatia_ver01.json", 
+      "page_count": 4885, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:33:38-04:00"
+    }, 
+    {
+      "name": "batch_nn_carnap_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_carnap_ver01.json", 
+      "page_count": 5169, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:11:35-04:00"
+    }, 
+    {
+      "name": "batch_nn_sappho_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_sappho_ver01.json", 
+      "page_count": 2472, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-09T00:42:06-04:00"
+    }, 
+    {
+      "name": "batch_nbu_chadron_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_chadron_ver01.json", 
+      "page_count": 10626, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn99021999"
+      ], 
+      "ingested": "2013-07-08T23:02:56-04:00"
+    }, 
+    {
+      "name": "batch_nn_epicurus_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_epicurus_ver01.json", 
+      "page_count": 4612, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:23:02-04:00"
+    }, 
+    {
+      "name": "batch_nn_cummings_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_cummings_ver01.json", 
+      "page_count": 5528, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:14:37-04:00"
+    }, 
+    {
+      "name": "batch_nn_iqbal_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_iqbal_ver01.json", 
+      "page_count": 4244, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:34:31-04:00"
+    }, 
+    {
+      "name": "batch_nn_erinna_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_erinna_ver01.json", 
+      "page_count": 5580, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:23:04-04:00"
+    }, 
+    {
+      "name": "batch_nn_fernandez_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_fernandez_ver01.json", 
+      "page_count": 5572, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:23:53-04:00"
+    }, 
+    {
+      "name": "batch_nn_mill_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_mill_ver01.json", 
+      "page_count": 5255, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193", 
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:55:48-04:00"
+    }, 
+    {
+      "name": "batch_nn_dante_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_dante_ver01.json", 
+      "page_count": 5237, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:20:39-04:00"
+    }, 
+    {
+      "name": "batch_nn_leibniz_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_leibniz_ver01.json", 
+      "page_count": 5908, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193", 
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:50:04-04:00"
+    }, 
+    {
+      "name": "batch_nbu_emerson_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_emerson_ver01.json", 
+      "page_count": 8686, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn99021999"
+      ], 
+      "ingested": "2013-07-08T23:06:03-04:00"
+    }, 
+    {
+      "name": "batch_nn_goodman2_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_goodman2_ver01.json", 
+      "page_count": 5262, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:29:46-04:00"
+    }, 
+    {
+      "name": "batch_nn_borges_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_borges_ver01.json", 
+      "page_count": 5071, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:11:12-04:00"
+    }, 
+    {
+      "name": "batch_nn_angelou_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_angelou_ver01.json", 
+      "page_count": 4638, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:08:40-04:00"
+    }, 
+    {
+      "name": "batch_nn_goodman1_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_goodman1_ver01.json", 
+      "page_count": 4644, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:26:56-04:00"
+    }, 
+    {
+      "name": "batch_nbu_gering_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_gering_ver01.json", 
+      "page_count": 8435, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn94055463", 
+        "sn94056415", 
+        "sn94056446", 
+        "sn95069780", 
+        "sn95070058"
+      ], 
+      "ingested": "2013-07-08T23:15:31-04:00"
+    }, 
+    {
+      "name": "batch_nbu_fairbury_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_fairbury_ver01.json", 
+      "page_count": 5091, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn95069779", 
+        "sn94056446", 
+        "sn95069780"
+      ], 
+      "ingested": "2013-07-08T23:07:05-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/39.json"
+}

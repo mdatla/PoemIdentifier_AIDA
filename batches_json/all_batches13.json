@@ -1,0 +1,368 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/12.json", 
+  "batches": [
+    {
+      "name": "batch_nmu_beaver_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nmu_beaver_ver01.json", 
+      "page_count": 9701, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nmu.json", 
+        "name": "University of New Mexico"
+      }, 
+      "lccns": [
+        "sn86063590", 
+        "sn93061569", 
+        "sn93061777", 
+        "sn92061524", 
+        "sn92070446", 
+        "sn92070477", 
+        "sn94056928"
+      ], 
+      "ingested": "2014-01-28T21:05:17-05:00"
+    }, 
+    {
+      "name": "batch_khi_goodnow_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_khi_goodnow_ver01.json", 
+      "page_count": 9759, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/khi.json", 
+        "name": "Kansas State Historical Society; Topeka, KS"
+      }, 
+      "lccns": [
+        "sn85032801", 
+        "sn83040052"
+      ], 
+      "ingested": "2014-01-30T02:12:43-05:00"
+    }, 
+    {
+      "name": "batch_khi_isabel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_khi_isabel_ver01.json", 
+      "page_count": 7116, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/khi.json", 
+        "name": "Kansas State Historical Society; Topeka, KS"
+      }, 
+      "lccns": [
+        "sn85030529"
+      ], 
+      "ingested": "2014-01-31T12:39:59-05:00"
+    }, 
+    {
+      "name": "batch_pst_altoona_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_pst_altoona_ver02.json", 
+      "page_count": 10021, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/pst.json", 
+        "name": "Penn State University Libraries; University Park, PA"
+      }, 
+      "lccns": [
+        "sn87078403", 
+        "sn88080711", 
+        "sn86053936", 
+        "sn86071314", 
+        "sn86071313", 
+        "sn86071312", 
+        "sn89077900"
+      ], 
+      "ingested": "2014-02-01T03:02:47-05:00"
+    }, 
+    {
+      "name": "batch_khi_k_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_khi_k_ver01.json", 
+      "page_count": 268, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/khi.json", 
+        "name": "Kansas State Historical Society; Topeka, KS"
+      }, 
+      "lccns": [
+        "sn82006863"
+      ], 
+      "ingested": "2014-01-31T17:29:13-05:00"
+    }, 
+    {
+      "name": "batch_scu_kingjulius_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_scu_kingjulius_ver01.json", 
+      "page_count": 10797, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/scu.json", 
+        "name": "University of South Carolina; Columbia, SC"
+      }, 
+      "lccns": [
+        "sn84026853", 
+        "sn93067668"
+      ], 
+      "ingested": "2014-01-28T19:51:48-05:00"
+    }, 
+    {
+      "name": "batch_lu_riel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_riel_ver01.json", 
+      "page_count": 4437, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn82015753"
+      ], 
+      "ingested": "2014-01-30T18:56:53-05:00"
+    }, 
+    {
+      "name": "batch_ohi_byrd_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_byrd_ver01.json", 
+      "page_count": 9070, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn85038115", 
+        "sn88078683"
+      ], 
+      "ingested": "2014-02-01T06:00:40-05:00"
+    }, 
+    {
+      "name": "batch_oru_pipit_ver04", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_pipit_ver04.json", 
+      "page_count": 6436, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn88086023", 
+        "sn85042400", 
+        "sn96061150"
+      ], 
+      "ingested": "2014-01-29T09:04:09-05:00"
+    }, 
+    {
+      "name": "batch_vtu_barre_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vtu_barre_ver01.json", 
+      "page_count": 9993, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vtu.json", 
+        "name": "University of Vermont"
+      }, 
+      "lccns": [
+        "sn95066012"
+      ], 
+      "ingested": "2014-01-30T10:25:22-05:00"
+    }, 
+    {
+      "name": "batch_lu_qualchan_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_qualchan_ver01.json", 
+      "page_count": 6702, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn82015753"
+      ], 
+      "ingested": "2014-01-31T10:00:08-05:00"
+    }, 
+    {
+      "name": "batch_mthi_kelseya_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mthi_kelseya_ver02.json", 
+      "page_count": 9478, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mthi.json", 
+        "name": "Montana Historical Society; Helena, MT"
+      }, 
+      "lccns": [
+        "sn84036008", 
+        "sn83025308"
+      ], 
+      "ingested": "2014-01-28T18:38:05-05:00"
+    }, 
+    {
+      "name": "batch_mohi_beetlebailey_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mohi_beetlebailey_ver01.json", 
+      "page_count": 15326, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mohi.json", 
+        "name": "State Historical Society of Missouri; Columbia, MO"
+      }, 
+      "lccns": [
+        "sn89066350", 
+        "sn88068010", 
+        "sn89066349"
+      ], 
+      "ingested": "2014-01-29T19:18:31-05:00"
+    }, 
+    {
+      "name": "batch_lu_pearse_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_pearse_ver01.json", 
+      "page_count": 7457, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn82015753"
+      ], 
+      "ingested": "2014-02-01T04:11:24-05:00"
+    }, 
+    {
+      "name": "batch_vtu_alburg_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vtu_alburg_ver02.json", 
+      "page_count": 6550, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vtu.json", 
+        "name": "University of Vermont"
+      }, 
+      "lccns": [
+        "sn84023253", 
+        "sn90000507", 
+        "sn95066012"
+      ], 
+      "ingested": "2014-01-29T18:22:25-05:00"
+    }, 
+    {
+      "name": "batch_nmu_antelope_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nmu_antelope_ver01.json", 
+      "page_count": 6893, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nmu.json", 
+        "name": "University of New Mexico"
+      }, 
+      "lccns": [
+        "sn86063579"
+      ], 
+      "ingested": "2014-01-31T16:40:23-05:00"
+    }, 
+    {
+      "name": "batch_ohi_arnarson_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_arnarson_ver01.json", 
+      "page_count": 8061, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn84028570", 
+        "sn85026031", 
+        "sn88077265", 
+        "sn88077272", 
+        "sn83035174", 
+        "sn83035172", 
+        "sn83035173", 
+        "sn85034457"
+      ], 
+      "ingested": "2014-01-28T14:09:12-05:00"
+    }, 
+    {
+      "name": "batch_oru_oystercatcher_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_oystercatcher_ver01.json", 
+      "page_count": 6941, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn96088181", 
+        "sn96061150"
+      ], 
+      "ingested": "2014-01-28T16:25:18-05:00"
+    }, 
+    {
+      "name": "batch_vi_teal_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_teal_ver02.json", 
+      "page_count": 8984, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn83045389"
+      ], 
+      "ingested": "2014-01-30T17:36:30-05:00"
+    }, 
+    {
+      "name": "batch_scu_joshwhite_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_scu_joshwhite_ver01.json", 
+      "page_count": 10030, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/scu.json", 
+        "name": "University of South Carolina; Columbia, SC"
+      }, 
+      "lccns": [
+        "sn84026912", 
+        "sn84026853"
+      ], 
+      "ingested": "2014-01-30T21:26:30-05:00"
+    }, 
+    {
+      "name": "batch_az_acacia_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_acacia_ver01.json", 
+      "page_count": 9256, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn95060791", 
+        "sn89053851", 
+        "sn94051341", 
+        "sn94051342"
+      ], 
+      "ingested": "2014-01-31T11:34:00-05:00"
+    }, 
+    {
+      "name": "batch_lu_omahoney_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_omahoney_ver01.json", 
+      "page_count": 4313, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn83026413"
+      ], 
+      "ingested": "2014-01-29T09:50:53-05:00"
+    }, 
+    {
+      "name": "batch_wvu_france_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wvu_france_ver01.json", 
+      "page_count": 11976, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wvu.json", 
+        "name": "West Virginia University"
+      }, 
+      "lccns": [
+        "sn84026844"
+      ], 
+      "ingested": "2014-01-30T06:57:07-05:00"
+    }, 
+    {
+      "name": "batch_tu_dottie_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_tu_dottie_ver01.json", 
+      "page_count": 12506, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/tu.json", 
+        "name": "University of Tennessee"
+      }, 
+      "lccns": [
+        "sn84024448", 
+        "sn89058007", 
+        "sn83045160", 
+        "sn95068565"
+      ], 
+      "ingested": "2014-01-28T12:00:54-05:00"
+    }, 
+    {
+      "name": "batch_wvu_germany_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wvu_germany_ver01.json", 
+      "page_count": 2539, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wvu.json", 
+        "name": "West Virginia University"
+      }, 
+      "lccns": [
+        "sn84026844"
+      ], 
+      "ingested": "2014-01-29T10:35:41-05:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/14.json"
+}

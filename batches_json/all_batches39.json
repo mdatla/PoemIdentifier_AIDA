@@ -1,0 +1,371 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/38.json", 
+  "batches": [
+    {
+      "name": "batch_mohi_angelou_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mohi_angelou_ver01.json", 
+      "page_count": 10006, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mohi.json", 
+        "name": "State Historical Society of Missouri; Columbia, MO"
+      }, 
+      "lccns": [
+        "sn89066097", 
+        "sn90061052", 
+        "sn89066313"
+      ], 
+      "ingested": "2013-07-08T22:46:38-04:00"
+    }, 
+    {
+      "name": "batch_fu_six_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_six_ver01.json", 
+      "page_count": 17717, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn95047227", 
+        "sn89058426", 
+        "sn96027172", 
+        "sn95047266", 
+        "sn95047242", 
+        "sn95026977", 
+        "sn95026697", 
+        "sn92062121"
+      ], 
+      "ingested": "2013-07-08T21:12:07-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_quamba_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_quamba_ver01.json", 
+      "page_count": 6247, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523"
+      ], 
+      "ingested": "2013-07-08T22:37:51-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_richfield_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_richfield_ver01.json", 
+      "page_count": 5944, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523", 
+        "sn83045366"
+      ], 
+      "ingested": "2013-07-08T22:38:48-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_tower_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_tower_ver01.json", 
+      "page_count": 5148, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523", 
+        "sn90059522", 
+        "sn83045366"
+      ], 
+      "ingested": "2013-07-08T22:40:20-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_nisswa_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_nisswa_ver01.json", 
+      "page_count": 5516, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523"
+      ], 
+      "ingested": "2013-07-08T22:31:47-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_plymouth_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_plymouth_ver01.json", 
+      "page_count": 5777, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523"
+      ], 
+      "ingested": "2013-07-08T22:33:32-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_lanesboro_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_lanesboro_ver01.json", 
+      "page_count": 5685, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523"
+      ], 
+      "ingested": "2013-07-08T22:26:19-04:00"
+    }, 
+    {
+      "name": "batch_fu_seven_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_seven_ver02.json", 
+      "page_count": 16038, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn88074815", 
+        "sn96027438", 
+        "sn95047348", 
+        "sn95047406", 
+        "sn95026701", 
+        "sn95047417", 
+        "sn95047416", 
+        "sn93059208", 
+        "sn95047378", 
+        "sn95026977", 
+        "sn96027213", 
+        "sn95026787", 
+        "sn95026788", 
+        "sn95047216", 
+        "sn93063916"
+      ], 
+      "ingested": "2013-07-08T21:11:18-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_mankato_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_mankato_ver01.json", 
+      "page_count": 4793, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:29:48-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_kasota_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_kasota_ver01.json", 
+      "page_count": 5370, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:23:46-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_onamia_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_onamia_ver01.json", 
+      "page_count": 4479, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:32:47-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_edina_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_edina_ver01.json", 
+      "page_count": 5870, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:08:08-04:00"
+    }, 
+    {
+      "name": "batch_kyu_meatloaf_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_meatloaf_ver01.json", 
+      "page_count": 12537, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn85052115", 
+        "sn85052114", 
+        "sn85052116"
+      ], 
+      "ingested": "2013-07-08T21:52:15-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_hallock_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_hallock_ver01.json", 
+      "page_count": 5673, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523"
+      ], 
+      "ingested": "2013-07-08T22:13:54-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_iona_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_iona_ver01.json", 
+      "page_count": 5242, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059523"
+      ], 
+      "ingested": "2013-07-08T22:16:14-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_jeffers_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_jeffers_ver01.json", 
+      "page_count": 4327, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:23:46-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_gonvick_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_gonvick_ver01.json", 
+      "page_count": 5275, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:10:37-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_sebeka_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_sebeka_ver01.json", 
+      "page_count": 2783, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:39:32-04:00"
+    }, 
+    {
+      "name": "batch_kyu_nirvana_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_nirvana_ver01.json", 
+      "page_count": 10364, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn85052114"
+      ], 
+      "ingested": "2013-07-08T21:54:09-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_faribault_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_faribault_ver01.json", 
+      "page_count": 5127, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:08:21-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_ulan_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_ulan_ver01.json", 
+      "page_count": 1628, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522"
+      ], 
+      "ingested": "2013-07-08T22:44:18-04:00"
+    }, 
+    {
+      "name": "batch_kyu_casablanca_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_casablanca_ver01.json", 
+      "page_count": 12029, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn85052141", 
+        "sn86069675", 
+        "sn85052020", 
+        "sn85052118", 
+        "sn87060189", 
+        "sn86069457", 
+        "sn85052116", 
+        "sn86069848"
+      ], 
+      "ingested": "2013-07-08T21:35:04-04:00"
+    }, 
+    {
+      "name": "batch_kyu_dracula_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_dracula_ver01.json", 
+      "page_count": 9192, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn85052141", 
+        "sn86069309", 
+        "sn86069313", 
+        "sn86069395", 
+        "sn84037890", 
+        "sn86063242"
+      ], 
+      "ingested": "2013-07-08T21:36:29-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_cardinal_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_cardinal_ver01.json", 
+      "page_count": 10488, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn83025121"
+      ], 
+      "ingested": "2013-07-08T21:29:33-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/40.json"
+}

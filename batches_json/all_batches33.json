@@ -1,0 +1,362 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/32.json", 
+  "batches": [
+    {
+      "name": "batch_vi_gray_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_gray_ver01.json", 
+      "page_count": 2471, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T11:56:53-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_effie_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_effie_ver01.json", 
+      "page_count": 5274, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83025287", 
+        "sn83016811", 
+        "sn83016810"
+      ], 
+      "ingested": "2013-07-09T11:28:35-04:00"
+    }, 
+    {
+      "name": "batch_txdn_denmark_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_denmark_ver01.json", 
+      "page_count": 9579, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn88084272"
+      ], 
+      "ingested": "2013-07-09T11:01:05-04:00"
+    }, 
+    {
+      "name": "batch_nn_hanyu_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_hanyu_ver01.json", 
+      "page_count": 11472, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-09T10:03:49-04:00"
+    }, 
+    {
+      "name": "batch_okhi_freedom_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_okhi_freedom_ver01.json", 
+      "page_count": 11070, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/okhi.json", 
+        "name": "Oklahoma Historical Society"
+      }, 
+      "lccns": [
+        "sn86063952"
+      ], 
+      "ingested": "2013-07-09T10:49:37-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_dunbar_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_dunbar_ver01.json", 
+      "page_count": 5881, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83025287", 
+        "sn83045366"
+      ], 
+      "ingested": "2013-07-09T11:06:59-04:00"
+    }, 
+    {
+      "name": "batch_dlc_delphi_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_delphi_ver02.json", 
+      "page_count": 4999, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030213", 
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T10:56:51-04:00"
+    }, 
+    {
+      "name": "batch_oru_greengear_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_greengear_ver01.json", 
+      "page_count": 10242, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn96061149", 
+        "sn99063957", 
+        "sn96061150"
+      ], 
+      "ingested": "2013-07-09T10:55:27-04:00"
+    }, 
+    {
+      "name": "batch_dlc_chester_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_chester_ver02.json", 
+      "page_count": 9778, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn86053573", 
+        "sn82014402", 
+        "sn84024442", 
+        "sn83027091", 
+        "sn82016187", 
+        "sn85054468"
+      ], 
+      "ingested": "2013-07-09T10:17:57-04:00"
+    }, 
+    {
+      "name": "batch_dlc_dutch_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_dutch_ver02.json", 
+      "page_count": 9927, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn82000205", 
+        "sn87062244", 
+        "sn85054468", 
+        "sn84024442", 
+        "sn84024441"
+      ], 
+      "ingested": "2013-07-09T10:15:39-04:00"
+    }, 
+    {
+      "name": "batch_dlc_euclid_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_euclid_ver01.json", 
+      "page_count": 5290, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T10:43:17-04:00"
+    }, 
+    {
+      "name": "batch_lu_gambit_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_gambit_ver01.json", 
+      "page_count": 5200, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn88064592", 
+        "sn82003389", 
+        "sn88064460", 
+        "sn88064358"
+      ], 
+      "ingested": "2013-07-09T11:16:51-04:00"
+    }, 
+    {
+      "name": "batch_oru_courage_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_courage_ver02.json", 
+      "page_count": 7279, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn96088466", 
+        "sn96088246", 
+        "sn00063520"
+      ], 
+      "ingested": "2013-07-09T11:04:08-04:00"
+    }, 
+    {
+      "name": "batch_oru_framebones_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_framebones_ver01.json", 
+      "page_count": 10458, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn99063956", 
+        "sn99063957", 
+        "sn99063955"
+      ], 
+      "ingested": "2013-07-09T10:42:07-04:00"
+    }, 
+    {
+      "name": "batch_kyu_fernico_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_fernico_ver01.json", 
+      "page_count": 9186, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn84038328", 
+        "sn86069313", 
+        "sn86069201", 
+        "sn84037890", 
+        "sn85052021", 
+        "sn85052020", 
+        "sn85052022"
+      ], 
+      "ingested": "2013-07-09T10:43:34-04:00"
+    }, 
+    {
+      "name": "batch_iune_foxtrot_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_iune_foxtrot_ver01.json", 
+      "page_count": 9790, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/iune.json", 
+        "name": "University of Illinois at Urbana-Champaign Library, Urbana, IL"
+      }, 
+      "lccns": [
+        "sn83045487"
+      ], 
+      "ingested": "2013-07-09T11:00:18-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_bemidji_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_bemidji_ver02.json", 
+      "page_count": 6251, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83045366"
+      ], 
+      "ingested": "2013-07-09T10:46:27-04:00"
+    }, 
+    {
+      "name": "batch_ohi_lima_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_lima_ver01.json", 
+      "page_count": 1842, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn85038161", 
+        "sn85038120"
+      ], 
+      "ingested": "2013-07-09T11:22:50-04:00"
+    }, 
+    {
+      "name": "batch_okhi_ellis_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_okhi_ellis_ver01.json", 
+      "page_count": 11703, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/okhi.json", 
+        "name": "Oklahoma Historical Society"
+      }, 
+      "lccns": [
+        "sn86063952"
+      ], 
+      "ingested": "2013-07-09T10:07:36-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_angus_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_angus_ver02.json", 
+      "page_count": 6182, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83045366"
+      ], 
+      "ingested": "2013-07-09T10:34:35-04:00"
+    }, 
+    {
+      "name": "batch_dlc_cobol_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_cobol_ver01.json", 
+      "page_count": 5130, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030213"
+      ], 
+      "ingested": "2013-07-09T10:22:06-04:00"
+    }, 
+    {
+      "name": "batch_dlc_grass_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_grass_ver01.json", 
+      "page_count": 5400, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T10:13:23-04:00"
+    }, 
+    {
+      "name": "batch_lu_forge_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_forge_ver01.json", 
+      "page_count": 3352, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn85038558", 
+        "sn89059303", 
+        "sn88064305"
+      ], 
+      "ingested": "2013-07-09T10:52:54-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_bena_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_bena_ver02.json", 
+      "page_count": 4003, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83045366"
+      ], 
+      "ingested": "2013-07-09T10:42:35-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_amboy_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_amboy_ver02.json", 
+      "page_count": 3649, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83045366"
+      ], 
+      "ingested": "2013-07-09T10:42:19-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/34.json"
+}

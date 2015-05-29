@@ -1,0 +1,381 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/22.json", 
+  "batches": [
+    {
+      "name": "batch_dlc_pug_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_pug_ver01.json", 
+      "page_count": 10358, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2013-07-09T21:34:04-04:00"
+    }, 
+    {
+      "name": "batch_kyu_albatross_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_albatross_ver01.json", 
+      "page_count": 10299, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069397", 
+        "sn84038328", 
+        "sn86069162", 
+        "sn86069180", 
+        "sn86069163", 
+        "sn86069074", 
+        "sn86069165", 
+        "sn86069164", 
+        "sn82015050", 
+        "sn83025729", 
+        "sn87060049", 
+        "sn86069867", 
+        "sn86069395", 
+        "sn84037890", 
+        "sn85052076", 
+        "sn86069657", 
+        "sn86069620"
+      ], 
+      "ingested": "2013-07-09T22:09:13-04:00"
+    }, 
+    {
+      "name": "batch_oru_auklet_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_auklet_ver01.json", 
+      "page_count": 6398, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn99063957"
+      ], 
+      "ingested": "2013-07-09T22:40:47-04:00"
+    }, 
+    {
+      "name": "batch_dlc_japanesechin_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_japanesechin_ver01.json", 
+      "page_count": 10105, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2013-07-09T21:32:17-04:00"
+    }, 
+    {
+      "name": "batch_tu_kitty_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_tu_kitty_ver01.json", 
+      "page_count": 6168, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/tu.json", 
+        "name": "University of Tennessee"
+      }, 
+      "lccns": [
+        "sn96091000", 
+        "sn83025725", 
+        "sn85033435", 
+        "sn85033711"
+      ], 
+      "ingested": "2013-07-09T21:52:11-04:00"
+    }, 
+    {
+      "name": "batch_wa_duwamish_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_wa_duwamish_ver01.json", 
+      "page_count": 5936, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/wa.json", 
+        "name": "Washington State Library; Olympia, WA"
+      }, 
+      "lccns": [
+        "sn88085947", 
+        "sn87093109", 
+        "sn87008085"
+      ], 
+      "ingested": "2013-07-09T22:35:09-04:00"
+    }, 
+    {
+      "name": "batch_vtu_jamaica_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vtu_jamaica_ver01.json", 
+      "page_count": 10748, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vtu.json", 
+        "name": "University of Vermont"
+      }, 
+      "lccns": [
+        "sn93063557"
+      ], 
+      "ingested": "2013-07-09T22:00:57-04:00"
+    }, 
+    {
+      "name": "batch_ohi_jaques_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_jaques_ver01.json", 
+      "page_count": 7564, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn84028490"
+      ], 
+      "ingested": "2013-07-09T21:57:30-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_edsel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_edsel_ver01.json", 
+      "page_count": 5627, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn89081022", 
+        "sn85025567"
+      ], 
+      "ingested": "2013-07-09T22:30:09-04:00"
+    }, 
+    {
+      "name": "batch_dlc_havanese_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_havanese_ver01.json", 
+      "page_count": 9603, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045462"
+      ], 
+      "ingested": "2013-07-09T21:25:27-04:00"
+    }, 
+    {
+      "name": "batch_nbu_quarrie_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_quarrie_ver01.json", 
+      "page_count": 10864, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn99021999"
+      ], 
+      "ingested": "2013-07-09T21:40:24-04:00"
+    }, 
+    {
+      "name": "batch_oru_chickadee_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_oru_chickadee_ver01.json", 
+      "page_count": 6280, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/oru.json", 
+        "name": "University of Oregon Libraries; Eugene, OR"
+      }, 
+      "lccns": [
+        "sn96088281", 
+        "sn99063957"
+      ], 
+      "ingested": "2013-07-09T22:23:56-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_ford_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_ford_ver01.json", 
+      "page_count": 4981, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn89081022"
+      ], 
+      "ingested": "2013-07-09T22:27:46-04:00"
+    }, 
+    {
+      "name": "batch_pst_jordan_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_pst_jordan_ver01.json", 
+      "page_count": 9720, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/pst.json", 
+        "name": "Penn State University Libraries; University Park, PA"
+      }, 
+      "lccns": [
+        "sn90069164", 
+        "sn84026409", 
+        "sn84026050", 
+        "sn87080417", 
+        "sn86081889"
+      ], 
+      "ingested": "2013-07-09T21:50:56-04:00"
+    }, 
+    {
+      "name": "batch_dlc_dachshund_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_dachshund_ver02.json", 
+      "page_count": 9988, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83045433"
+      ], 
+      "ingested": "2013-07-09T21:51:35-04:00"
+    }, 
+    {
+      "name": "batch_ohi_iago_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_iago_ver01.json", 
+      "page_count": 8138, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn87076793", 
+        "sn85042591", 
+        "sn85026034", 
+        "sn85026279", 
+        "sn87076794"
+      ], 
+      "ingested": "2013-07-09T21:19:27-04:00"
+    }, 
+    {
+      "name": "batch_vtu_irasburg_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vtu_irasburg_ver01.json", 
+      "page_count": 10360, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vtu.json", 
+        "name": "University of Vermont"
+      }, 
+      "lccns": [
+        "sn83025667", 
+        "sn84023649", 
+        "sn84023643", 
+        "sn93063557", 
+        "sn98060001"
+      ], 
+      "ingested": "2013-07-09T21:07:46-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_khaki_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_khaki_ver01.json", 
+      "page_count": 5745, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn82014682"
+      ], 
+      "ingested": "2013-07-09T22:04:24-04:00"
+    }, 
+    {
+      "name": "batch_vi_kelso_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_kelso_ver01.json", 
+      "page_count": 2979, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn84024738", 
+        "sn84024718"
+      ], 
+      "ingested": "2013-07-09T22:01:12-04:00"
+    }, 
+    {
+      "name": "batch_az_incadove_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_incadove_ver01.json", 
+      "page_count": 9188, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn84020558", 
+        "sn84024827", 
+        "sn84021912", 
+        "sn82014897"
+      ], 
+      "ingested": "2013-07-09T21:37:49-04:00"
+    }, 
+    {
+      "name": "batch_ohi_desdemona_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_desdemona_ver01.json", 
+      "page_count": 10312, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn85042437", 
+        "sn83035487", 
+        "sn83035144", 
+        "sn83035143", 
+        "sn83035163"
+      ], 
+      "ingested": "2013-07-09T20:15:28-04:00"
+    }, 
+    {
+      "name": "batch_tu_jethro_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_tu_jethro_ver01.json", 
+      "page_count": 5248, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/tu.json", 
+        "name": "University of Tennessee"
+      }, 
+      "lccns": [
+        "sn85033964", 
+        "sn85033306"
+      ], 
+      "ingested": "2013-07-09T21:37:29-04:00"
+    }, 
+    {
+      "name": "batch_nn_pielou_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_pielou_ver01.json", 
+      "page_count": 12057, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030431"
+      ], 
+      "ingested": "2013-07-09T20:38:41-04:00"
+    }, 
+    {
+      "name": "batch_nbu_kiewit_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_kiewit_ver02.json", 
+      "page_count": 11558, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn99021999"
+      ], 
+      "ingested": "2013-07-09T21:02:11-04:00"
+    }, 
+    {
+      "name": "batch_pst_irvin_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_pst_irvin_ver01.json", 
+      "page_count": 11481, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/pst.json", 
+        "name": "Penn State University Libraries; University Park, PA"
+      }, 
+      "lccns": [
+        "sn83032011", 
+        "sn86081889", 
+        "sn86081895", 
+        "sn90069164", 
+        "sn87078321", 
+        "sn84026050", 
+        "sn84026106"
+      ], 
+      "ingested": "2013-07-09T20:59:08-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/24.json"
+}

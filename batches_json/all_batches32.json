@@ -1,0 +1,347 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/31.json", 
+  "batches": [
+    {
+      "name": "batch_uuml_leipheimer_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_leipheimer_ver01.json", 
+      "page_count": 7224, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058397", 
+        "sn85058091"
+      ], 
+      "ingested": "2013-07-09T12:16:09-04:00"
+    }, 
+    {
+      "name": "batch_iune_hotel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_iune_hotel_ver01.json", 
+      "page_count": 11802, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/iune.json", 
+        "name": "University of Illinois at Urbana-Champaign Library, Urbana, IL"
+      }, 
+      "lccns": [
+        "sn83045487"
+      ], 
+      "ingested": "2013-07-09T12:25:02-04:00"
+    }, 
+    {
+      "name": "batch_kyu_holmium_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_holmium_ver01.json", 
+      "page_count": 9127, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069675", 
+        "sn85052020", 
+        "sn85052023", 
+        "sn85052022"
+      ], 
+      "ingested": "2013-07-09T12:15:25-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_goshen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_goshen_ver01.json", 
+      "page_count": 5742, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83016758"
+      ], 
+      "ingested": "2013-07-09T12:23:33-04:00"
+    }, 
+    {
+      "name": "batch_txdn_greenland_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_greenland_ver01.json", 
+      "page_count": 10616, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn88084272"
+      ], 
+      "ingested": "2013-07-09T11:44:32-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_iron_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_iron_ver01.json", 
+      "page_count": 4525, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83016758"
+      ], 
+      "ingested": "2013-07-09T12:35:47-04:00"
+    }, 
+    {
+      "name": "batch_txdn_egypt_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_egypt_ver01.json", 
+      "page_count": 10146, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn88084272"
+      ], 
+      "ingested": "2013-07-09T11:47:35-04:00"
+    }, 
+    {
+      "name": "batch_dlc_inform_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_inform_ver01.json", 
+      "page_count": 5113, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T11:50:51-04:00"
+    }, 
+    {
+      "name": "batch_okhi_greer_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_okhi_greer_ver01.json", 
+      "page_count": 9674, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/okhi.json", 
+        "name": "Oklahoma Historical Society"
+      }, 
+      "lccns": [
+        "sn96093062", 
+        "sn97070125", 
+        "sn97070124", 
+        "sn97070127", 
+        "sn97070126", 
+        "sn97070123"
+      ], 
+      "ingested": "2013-07-09T12:00:42-04:00"
+    }, 
+    {
+      "name": "batch_nbu_dunning_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_dunning_ver01.json", 
+      "page_count": 10426, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn99021999", 
+        "sn84022835"
+      ], 
+      "ingested": "2013-07-09T11:35:26-04:00"
+    }, 
+    {
+      "name": "batch_scu_carlacox_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_scu_carlacox_ver01.json", 
+      "page_count": 9916, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/scu.json", 
+        "name": "University of South Carolina; Columbia, SC"
+      }, 
+      "lccns": [
+        "sn84027005", 
+        "sn84026965", 
+        "sn84027008"
+      ], 
+      "ingested": "2013-07-09T11:19:24-04:00"
+    }, 
+    {
+      "name": "batch_scu_brandonblaze_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_scu_brandonblaze_ver01.json", 
+      "page_count": 9814, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/scu.json", 
+        "name": "University of South Carolina; Columbia, SC"
+      }, 
+      "lccns": [
+        "sn84026994"
+      ], 
+      "ingested": "2013-07-09T10:57:14-04:00"
+    }, 
+    {
+      "name": "batch_dlc_lisp_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_lisp_ver01.json", 
+      "page_count": 924, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T12:30:09-04:00"
+    }, 
+    {
+      "name": "batch_lu_havok_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_lu_havok_ver01.json", 
+      "page_count": 4304, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/lu.json", 
+        "name": "Louisiana State University; Baton Rouge, LA"
+      }, 
+      "lccns": [
+        "sn88064339", 
+        "sn88064433", 
+        "sn88064676", 
+        "sn88064181"
+      ], 
+      "ingested": "2013-07-09T12:11:20-04:00"
+    }, 
+    {
+      "name": "batch_vi_eggplant_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_eggplant_ver01.json", 
+      "page_count": 6101, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn83045830"
+      ], 
+      "ingested": "2013-07-09T11:55:38-04:00"
+    }, 
+    {
+      "name": "batch_dlc_kite_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_kite_ver01.json", 
+      "page_count": 904, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T12:27:35-04:00"
+    }, 
+    {
+      "name": "batch_kyu_gold_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_gold_ver01.json", 
+      "page_count": 8612, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069873"
+      ], 
+      "ingested": "2013-07-09T11:43:45-04:00"
+    }, 
+    {
+      "name": "batch_iune_golf_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_iune_golf_ver01.json", 
+      "page_count": 10746, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/iune.json", 
+        "name": "University of Illinois at Urbana-Champaign Library, Urbana, IL"
+      }, 
+      "lccns": [
+        "sn83045487"
+      ], 
+      "ingested": "2013-07-09T11:50:56-04:00"
+    }, 
+    {
+      "name": "batch_vi_barbaro_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_barbaro_ver01.json", 
+      "page_count": 339, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn84025980"
+      ], 
+      "ingested": "2013-07-09T12:25:01-04:00"
+    }, 
+    {
+      "name": "batch_dlc_fortran_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_fortran_ver01.json", 
+      "page_count": 5182, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T11:15:29-04:00"
+    }, 
+    {
+      "name": "batch_txdn_fiji_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_fiji_ver01.json", 
+      "page_count": 8580, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn88084272"
+      ], 
+      "ingested": "2013-07-09T11:22:32-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_king_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_king_ver02.json", 
+      "page_count": 7928, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn85047165", 
+        "sn82016413"
+      ], 
+      "ingested": "2013-07-09T11:35:08-04:00"
+    }, 
+    {
+      "name": "batch_nbu_carson_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_carson_ver02.json", 
+      "page_count": 12794, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "46032385"
+      ], 
+      "ingested": "2013-07-09T11:15:51-04:00"
+    }, 
+    {
+      "name": "batch_dlc_hugo_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_hugo_ver01.json", 
+      "page_count": 4825, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-09T11:12:55-04:00"
+    }, 
+    {
+      "name": "batch_txdn_canada_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_canada_ver02.json", 
+      "page_count": 9802, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn88084272"
+      ], 
+      "ingested": "2013-07-09T11:07:20-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/33.json"
+}

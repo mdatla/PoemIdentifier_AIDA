@@ -1,0 +1,341 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/40.json", 
+  "batches": [
+    {
+      "name": "batch_fu_fifteen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_fifteen_ver01.json", 
+      "page_count": 6519, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn88074815", 
+        "sn87062268", 
+        "sn96027111", 
+        "sn84027621"
+      ], 
+      "ingested": "2013-07-08T20:59:48-04:00"
+    }, 
+    {
+      "name": "batch_dlc_universal_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_universal_ver01.json", 
+      "page_count": 5158, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T20:45:50-04:00"
+    }, 
+    {
+      "name": "batch_dlc_rolls_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_rolls_ver01.json", 
+      "page_count": 5002, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T20:29:32-04:00"
+    }, 
+    {
+      "name": "batch_dlc_kaiser_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_kaiser_ver01.json", 
+      "page_count": 8963, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T19:57:33-04:00"
+    }, 
+    {
+      "name": "batch_dlc_romeo_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_romeo_ver01.json", 
+      "page_count": 5836, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:32:05-04:00"
+    }, 
+    {
+      "name": "batch_dlc_whiskey_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_whiskey_ver01.json", 
+      "page_count": 3710, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:52:47-04:00"
+    }, 
+    {
+      "name": "batch_fu_ten_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_ten_ver01.json", 
+      "page_count": 2309, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn95047371", 
+        "sn87062268", 
+        "sn84027621"
+      ], 
+      "ingested": "2013-07-08T21:16:57-04:00"
+    }, 
+    {
+      "name": "batch_dlc_xray_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_xray_ver01.json", 
+      "page_count": 3113, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:58:39-04:00"
+    }, 
+    {
+      "name": "batch_dlc_sierra_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_sierra_ver01.json", 
+      "page_count": 4863, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84024441", 
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:32:44-04:00"
+    }, 
+    {
+      "name": "batch_dlc_triumph_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_triumph_ver01.json", 
+      "page_count": 4586, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T20:35:21-04:00"
+    }, 
+    {
+      "name": "batch_fu_three_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_three_ver01.json", 
+      "page_count": 1706, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn95026977"
+      ], 
+      "ingested": "2013-07-08T21:17:33-04:00"
+    }, 
+    {
+      "name": "batch_dlc_victor_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_victor_ver01.json", 
+      "page_count": 3673, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:47:01-04:00"
+    }, 
+    {
+      "name": "batch_fu_five_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_five_ver01.json", 
+      "page_count": 2659, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn95026977", 
+        "sn95047178"
+      ], 
+      "ingested": "2013-07-08T21:05:49-04:00"
+    }, 
+    {
+      "name": "batch_dlc_liberia_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_liberia_ver01.json", 
+      "page_count": 8033, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T20:02:08-04:00"
+    }, 
+    {
+      "name": "batch_dlc_mazda_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_mazda_ver01.json", 
+      "page_count": 5474, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T20:04:23-04:00"
+    }, 
+    {
+      "name": "batch_dlc_uniform_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_uniform_ver01.json", 
+      "page_count": 3036, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn82014159", 
+        "sn82016441", 
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:42:28-04:00"
+    }, 
+    {
+      "name": "batch_dlc_tango_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_tango_ver01.json", 
+      "page_count": 3941, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:33:43-04:00"
+    }, 
+    {
+      "name": "batch_dlc_november_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_november_ver01.json", 
+      "page_count": 3529, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84024441"
+      ], 
+      "ingested": "2013-07-08T20:17:24-04:00"
+    }, 
+    {
+      "name": "batch_dlc_quebec_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_quebec_ver01.json", 
+      "page_count": 3916, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:28:49-04:00"
+    }, 
+    {
+      "name": "batch_dlc_iceland_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_iceland_ver01.json", 
+      "page_count": 7942, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T19:52:08-04:00"
+    }, 
+    {
+      "name": "batch_dlc_papa_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_papa_ver01.json", 
+      "page_count": 3447, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:26:06-04:00"
+    }, 
+    {
+      "name": "batch_dlc_greece_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_greece_ver01.json", 
+      "page_count": 7457, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T19:48:19-04:00"
+    }, 
+    {
+      "name": "batch_dlc_haiti_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_haiti_ver01.json", 
+      "page_count": 7627, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T19:50:25-04:00"
+    }, 
+    {
+      "name": "batch_dlc_oscar_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_oscar_ver01.json", 
+      "page_count": 3297, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84024441", 
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T20:22:44-04:00"
+    }, 
+    {
+      "name": "batch_dlc_nash_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_nash_ver01.json", 
+      "page_count": 4180, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T20:12:19-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/42.json"
+}

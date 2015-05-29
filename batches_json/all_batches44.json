@@ -1,0 +1,350 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/43.json", 
+  "batches": [
+    {
+      "name": "batch_curiv_idyllwild_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_idyllwild_ver01.json", 
+      "page_count": 4549, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387", 
+        "sn94052989"
+      ], 
+      "ingested": "2013-07-08T18:03:09-04:00"
+    }, 
+    {
+      "name": "batch_nn_joyce_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_joyce_ver01.json", 
+      "page_count": 7831, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-08T17:25:24-04:00"
+    }, 
+    {
+      "name": "batch_curiv_gualala_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_gualala_ver01.json", 
+      "page_count": 5565, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:57:50-04:00"
+    }, 
+    {
+      "name": "batch_curiv_needles_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_needles_ver01.json", 
+      "page_count": 2069, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T18:30:41-04:00"
+    }, 
+    {
+      "name": "batch_curiv_jenner_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_jenner_ver01.json", 
+      "page_count": 4751, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T18:05:26-04:00"
+    }, 
+    {
+      "name": "batch_curiv_etna_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_etna_ver01.json", 
+      "page_count": 6844, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:44:24-04:00"
+    }, 
+    {
+      "name": "batch_curiv_brea_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_brea_ver01.json", 
+      "page_count": 7117, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:38:23-04:00"
+    }, 
+    {
+      "name": "batch_curiv_darwin_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_darwin_ver01.json", 
+      "page_count": 6425, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:42:27-04:00"
+    }, 
+    {
+      "name": "batch_curiv_klamath_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_klamath_ver01.json", 
+      "page_count": 2922, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T18:10:59-04:00"
+    }, 
+    {
+      "name": "batch_curiv_carmel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_carmel_ver01.json", 
+      "page_count": 5968, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:41:09-04:00"
+    }, 
+    {
+      "name": "batch_az_agave_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_az_agave_ver01.json", 
+      "page_count": 9845, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/az.json", 
+        "name": "Arizona State Library, Archives and Public Records; Phoenix, AZ"
+      }, 
+      "lccns": [
+        "sn2004060008", 
+        "sn84024828", 
+        "sn95060914"
+      ], 
+      "ingested": "2013-07-08T17:28:25-04:00"
+    }, 
+    {
+      "name": "batch_curiv_joshuaTree_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_joshuaTree_ver01.json", 
+      "page_count": 2607, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T18:07:58-04:00"
+    }, 
+    {
+      "name": "batch_curiv_ahwahnee_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_ahwahnee_ver01.json", 
+      "page_count": 5921, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:34:05-04:00"
+    }, 
+    {
+      "name": "batch_curiv_garberville_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_garberville_ver01.json", 
+      "page_count": 2461, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn94052989"
+      ], 
+      "ingested": "2013-07-08T17:57:27-04:00"
+    }, 
+    {
+      "name": "batch_dlc_american_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_american_ver01.json", 
+      "page_count": 10992, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn86053573", 
+        "sn86053571", 
+        "sn84026749", 
+        "sn82014760", 
+        "sn83045433", 
+        "sn86053570"
+      ], 
+      "ingested": "2013-07-08T16:49:29-04:00"
+    }, 
+    {
+      "name": "batch_curiv_exeter_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_exeter_ver01.json", 
+      "page_count": 3889, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387", 
+        "sn94052989"
+      ], 
+      "ingested": "2013-07-08T17:44:45-04:00"
+    }, 
+    {
+      "name": "batch_curiv_carlsbad_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_carlsbad_ver01.json", 
+      "page_count": 4392, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:38:30-04:00"
+    }, 
+    {
+      "name": "batch_curiv_fredsplace_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_fredsplace_ver01.json", 
+      "page_count": 2358, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:54:03-04:00"
+    }, 
+    {
+      "name": "batch_curiv_felix_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_curiv_felix_ver01.json", 
+      "page_count": 2428, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/curiv.json", 
+        "name": "University of California, Riverside; Riverside, CA"
+      }, 
+      "lccns": [
+        "sn85066387"
+      ], 
+      "ingested": "2013-07-08T17:53:22-04:00"
+    }, 
+    {
+      "name": "batch_nn_ovid_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_ovid_ver01.json", 
+      "page_count": 3824, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T17:17:17-04:00"
+    }, 
+    {
+      "name": "batch_uuml_contador_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_contador_ver01.json", 
+      "page_count": 10215, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058258", 
+        "sn85058259", 
+        "sn85058090"
+      ], 
+      "ingested": "2013-07-08T17:04:03-04:00"
+    }, 
+    {
+      "name": "batch_dlc_ghana_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_ghana_ver01.json", 
+      "page_count": 10191, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749"
+      ], 
+      "ingested": "2013-07-08T16:53:09-04:00"
+    }, 
+    {
+      "name": "batch_dlc_klm_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_klm_ver01.json", 
+      "page_count": 7596, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749", 
+        "sn86053573", 
+        "sn86053572", 
+        "sn86053571", 
+        "sn83045433"
+      ], 
+      "ingested": "2013-07-08T16:54:13-04:00"
+    }, 
+    {
+      "name": "batch_dlc_eastern_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_eastern_ver01.json", 
+      "page_count": 10143, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn84026749", 
+        "sn86053573", 
+        "sn86053571", 
+        "sn83045433"
+      ], 
+      "ingested": "2013-07-08T15:56:20-04:00"
+    }, 
+    {
+      "name": "batch_ohi_kilo_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_ohi_kilo_ver01.json", 
+      "page_count": 6924, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/ohi.json", 
+        "name": "Ohio Historical Society, Columbus, OH"
+      }, 
+      "lccns": [
+        "sn85038161", 
+        "sn88077573"
+      ], 
+      "ingested": "2013-07-08T17:14:45-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/45.json"
+}

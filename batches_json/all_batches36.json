@@ -1,0 +1,336 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/35.json", 
+  "batches": [
+    {
+      "name": "batch_vi_elkton_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_elkton_ver01.json", 
+      "page_count": 3595, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T08:59:01-04:00"
+    }, 
+    {
+      "name": "batch_vi_styx_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_styx_ver01.json", 
+      "page_count": 800, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn95079246"
+      ], 
+      "ingested": "2013-07-09T09:20:05-04:00"
+    }, 
+    {
+      "name": "batch_vi_greenday_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_greenday_ver01.json", 
+      "page_count": 2792, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85025007"
+      ], 
+      "ingested": "2013-07-09T09:03:10-04:00"
+    }, 
+    {
+      "name": "batch_vi_ivy_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_ivy_ver01.json", 
+      "page_count": 1797, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T09:09:58-04:00"
+    }, 
+    {
+      "name": "batch_uuml_twelve_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_twelve_ver01.json", 
+      "page_count": 6913, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn83045555"
+      ], 
+      "ingested": "2013-07-09T08:21:40-04:00"
+    }, 
+    {
+      "name": "batch_vi_creed_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_creed_ver01.json", 
+      "page_count": 4153, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn84025841"
+      ], 
+      "ingested": "2013-07-09T08:51:29-04:00"
+    }, 
+    {
+      "name": "batch_vi_jamestown_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_jamestown_ver01.json", 
+      "page_count": 1337, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T09:10:28-04:00"
+    }, 
+    {
+      "name": "batch_uuml_five_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_five_ver01.json", 
+      "page_count": 10307, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T01:10:46-04:00"
+    }, 
+    {
+      "name": "batch_uuml_nine_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_nine_ver01.json", 
+      "page_count": 8986, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn83045555"
+      ], 
+      "ingested": "2013-07-09T07:59:02-04:00"
+    }, 
+    {
+      "name": "batch_vi_felix_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_felix_ver01.json", 
+      "page_count": 1914, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85034438"
+      ], 
+      "ingested": "2013-07-09T09:01:51-04:00"
+    }, 
+    {
+      "name": "batch_vi_defleppard_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_defleppard_ver01.json", 
+      "page_count": 2252, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn95079220"
+      ], 
+      "ingested": "2013-07-09T08:56:26-04:00"
+    }, 
+    {
+      "name": "batch_uuml_eight_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_eight_ver01.json", 
+      "page_count": 8077, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130", 
+        "sn83045555"
+      ], 
+      "ingested": "2013-07-09T01:06:17-04:00"
+    }, 
+    {
+      "name": "batch_uuml_collins_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_collins_ver01.json", 
+      "page_count": 10682, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T01:03:23-04:00"
+    }, 
+    {
+      "name": "batch_uuml_six_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_six_ver01.json", 
+      "page_count": 6734, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058140", 
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T08:01:04-04:00"
+    }, 
+    {
+      "name": "batch_uuml_james_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_james_ver01.json", 
+      "page_count": 10211, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn86091038", 
+        "sn83045555", 
+        "sn85058217"
+      ], 
+      "ingested": "2013-07-09T07:47:32-04:00"
+    }, 
+    {
+      "name": "batch_vi_danville_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_danville_ver01.json", 
+      "page_count": 1750, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T08:53:55-04:00"
+    }, 
+    {
+      "name": "batch_uuml_hornacek_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_hornacek_ver01.json", 
+      "page_count": 10053, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn83045555"
+      ], 
+      "ingested": "2013-07-09T01:17:22-04:00"
+    }, 
+    {
+      "name": "batch_vi_chatham_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_chatham_ver01.json", 
+      "page_count": 2199, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T08:48:50-04:00"
+    }, 
+    {
+      "name": "batch_uuml_boozer_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_boozer_ver01.json", 
+      "page_count": 11133, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T01:02:33-04:00"
+    }, 
+    {
+      "name": "batch_nbu_alliance_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_alliance_ver01.json", 
+      "page_count": 20133, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn99021999"
+      ], 
+      "ingested": "2013-07-08T22:55:43-04:00"
+    }, 
+    {
+      "name": "batch_vi_carmel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_carmel_ver01.json", 
+      "page_count": 1789, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038614"
+      ], 
+      "ingested": "2013-07-09T08:44:45-04:00"
+    }, 
+    {
+      "name": "batch_uuml_griffith_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_griffith_ver01.json", 
+      "page_count": 11047, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130", 
+        "sn83045555"
+      ], 
+      "ingested": "2013-07-09T01:16:20-04:00"
+    }, 
+    {
+      "name": "batch_uuml_four_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_four_ver01.json", 
+      "page_count": 6973, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T01:11:48-04:00"
+    }, 
+    {
+      "name": "batch_vi_boston_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_boston_ver01.json", 
+      "page_count": 2231, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85026941"
+      ], 
+      "ingested": "2013-07-09T08:39:21-04:00"
+    }, 
+    {
+      "name": "batch_vi_bristol_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_bristol_ver01.json", 
+      "page_count": 1857, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T08:42:42-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/37.json"
+}

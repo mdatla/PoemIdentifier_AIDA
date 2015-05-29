@@ -1,0 +1,347 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/36.json", 
+  "batches": [
+    {
+      "name": "batch_uuml_thirteen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_thirteen_ver01.json", 
+      "page_count": 5083, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn83045555"
+      ], 
+      "ingested": "2013-07-09T08:14:14-04:00"
+    }, 
+    {
+      "name": "batch_uuml_seven_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_seven_ver01.json", 
+      "page_count": 6937, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058140"
+      ], 
+      "ingested": "2013-07-09T08:00:52-04:00"
+    }, 
+    {
+      "name": "batch_vi_aerosmith_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_aerosmith_ver01.json", 
+      "page_count": 2184, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn95079246"
+      ], 
+      "ingested": "2013-07-09T08:36:28-04:00"
+    }, 
+    {
+      "name": "batch_uuml_three_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_three_ver01.json", 
+      "page_count": 2529, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T08:17:04-04:00"
+    }, 
+    {
+      "name": "batch_txdn_charlie_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_charlie_ver01.json", 
+      "page_count": 12568, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn86090383", 
+        "sn86089977", 
+        "sn86071197"
+      ], 
+      "ingested": "2013-07-09T00:51:48-04:00"
+    }, 
+    {
+      "name": "batch_vi_abingdon_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_vi_abingdon_ver01.json", 
+      "page_count": 1325, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/vi.json", 
+        "name": "Library of Virginia; Richmond, VA"
+      }, 
+      "lccns": [
+        "sn85038615"
+      ], 
+      "ingested": "2013-07-09T08:33:58-04:00"
+    }, 
+    {
+      "name": "batch_uuml_layden_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_layden_ver01.json", 
+      "page_count": 6442, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn86091038", 
+        "sn85058117", 
+        "sn85058245", 
+        "sn85058217"
+      ], 
+      "ingested": "2013-07-09T07:50:34-04:00"
+    }, 
+    {
+      "name": "batch_txdn_delta_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_delta_ver01.json", 
+      "page_count": 10531, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn86089174", 
+        "sn93068209", 
+        "sn86071197"
+      ], 
+      "ingested": "2013-07-09T00:52:06-04:00"
+    }, 
+    {
+      "name": "batch_pst_atherton_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_pst_atherton_ver01.json", 
+      "page_count": 10722, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/pst.json", 
+        "name": "Penn State University Libraries; University Park, PA"
+      }, 
+      "lccns": [
+        "sn84026355"
+      ], 
+      "ingested": "2013-07-09T00:47:52-04:00"
+    }, 
+    {
+      "name": "batch_uuml_fisher_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_fisher_ver01.json", 
+      "page_count": 9964, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T01:08:21-04:00"
+    }, 
+    {
+      "name": "batch_uuml_dantley_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_dantley_ver01.json", 
+      "page_count": 7182, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T01:04:30-04:00"
+    }, 
+    {
+      "name": "batch_uuml_eaton_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_eaton_ver01.json", 
+      "page_count": 10267, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T01:04:59-04:00"
+    }, 
+    {
+      "name": "batch_pst_beaver_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_pst_beaver_ver01.json", 
+      "page_count": 9583, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/pst.json", 
+        "name": "Penn State University Libraries; University Park, PA"
+      }, 
+      "lccns": [
+        "sn83045211", 
+        "sn84026355"
+      ], 
+      "ingested": "2013-07-09T00:49:52-04:00"
+    }, 
+    {
+      "name": "batch_txdn_kilo_ver02", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_kilo_ver02.json", 
+      "page_count": 8734, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn84022109", 
+        "sn86090270"
+      ], 
+      "ingested": "2013-07-09T00:53:21-04:00"
+    }, 
+    {
+      "name": "batch_txdn_bravo_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_bravo_ver01.json", 
+      "page_count": 11976, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn93068209", 
+        "sn86071254", 
+        "sn86089978", 
+        "sn86090383"
+      ], 
+      "ingested": "2013-07-09T00:51:42-04:00"
+    }, 
+    {
+      "name": "batch_uuml_iavaroni_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_iavaroni_ver01.json", 
+      "page_count": 3829, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn83045555"
+      ], 
+      "ingested": "2013-07-09T01:21:50-04:00"
+    }, 
+    {
+      "name": "batch_uuml_fourteen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_fourteen_ver01.json", 
+      "page_count": 3949, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058394", 
+        "sn85058398", 
+        "sn83045555", 
+        "sn85058406"
+      ], 
+      "ingested": "2013-07-09T01:13:02-04:00"
+    }, 
+    {
+      "name": "batch_nbu_beatrice_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nbu_beatrice_ver01.json", 
+      "page_count": 14541, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nbu.json", 
+        "name": "University of Nebraska-Lincoln Libraries, Lincoln, NE"
+      }, 
+      "lccns": [
+        "sn99021999"
+      ], 
+      "ingested": "2013-07-08T22:56:44-04:00"
+    }, 
+    {
+      "name": "batch_uuml_anderson_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_anderson_ver01.json", 
+      "page_count": 4744, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058130"
+      ], 
+      "ingested": "2013-07-09T00:59:28-04:00"
+    }, 
+    {
+      "name": "batch_uuml_fifteen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_uuml_fifteen_ver01.json", 
+      "page_count": 4289, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/uuml.json", 
+        "name": "University of Utah, Marriott Library"
+      }, 
+      "lccns": [
+        "sn85058397", 
+        "sn85058398"
+      ], 
+      "ingested": "2013-07-09T01:07:40-04:00"
+    }, 
+    {
+      "name": "batch_nn_kant_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_kant_ver01.json", 
+      "page_count": 5284, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030272"
+      ], 
+      "ingested": "2013-07-08T23:42:36-04:00"
+    }, 
+    {
+      "name": "batch_txdn_alpha_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_txdn_alpha_ver01.json", 
+      "page_count": 5267, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/txdn.json", 
+        "name": "University of North Texas; Denton, TX"
+      }, 
+      "lccns": [
+        "sn86089174"
+      ], 
+      "ingested": "2013-07-09T00:49:54-04:00"
+    }, 
+    {
+      "name": "batch_nn_quine_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_quine_ver01.json", 
+      "page_count": 5516, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-09T00:32:37-04:00"
+    }, 
+    {
+      "name": "batch_nn_plato_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_plato_ver01.json", 
+      "page_count": 5692, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-09T00:28:29-04:00"
+    }, 
+    {
+      "name": "batch_nn_ockham_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_nn_ockham_ver01.json", 
+      "page_count": 5984, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/nn.json", 
+        "name": "The New York Public Library, Astor, Lenox and Tilden Foundation"
+      }, 
+      "lccns": [
+        "sn83030193"
+      ], 
+      "ingested": "2013-07-09T00:22:31-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/38.json"
+}

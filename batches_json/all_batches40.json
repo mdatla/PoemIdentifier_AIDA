@@ -1,0 +1,393 @@
+{
+  "previous": "http://chroniclingamerica.loc.gov/batches/39.json", 
+  "batches": [
+    {
+      "name": "batch_kyu_kinks_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_kinks_ver01.json", 
+      "page_count": 8727, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069309", 
+        "sn86069325", 
+        "sn85052141", 
+        "sn86069675", 
+        "sn2007058208"
+      ], 
+      "ingested": "2013-07-08T21:48:49-04:00"
+    }, 
+    {
+      "name": "batch_kyu_airplane_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_airplane_ver01.json", 
+      "page_count": 9990, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069396", 
+        "sn86069309", 
+        "sn87060004", 
+        "sn86069873", 
+        "sn86069457", 
+        "sn86069848"
+      ], 
+      "ingested": "2013-07-08T21:31:24-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_dassel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_dassel_ver01.json", 
+      "page_count": 3383, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn90059522", 
+        "sn83025287"
+      ], 
+      "ingested": "2013-07-08T22:01:58-04:00"
+    }, 
+    {
+      "name": "batch_kyu_inxs_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_inxs_ver01.json", 
+      "page_count": 9017, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069395"
+      ], 
+      "ingested": "2013-07-08T21:44:23-04:00"
+    }, 
+    {
+      "name": "batch_kyu_joplin_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_joplin_ver01.json", 
+      "page_count": 7544, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn84037890", 
+        "sn86069395", 
+        "sn86063242"
+      ], 
+      "ingested": "2013-07-08T21:46:40-04:00"
+    }, 
+    {
+      "name": "batch_kyu_gratefuldead_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_gratefuldead_ver01.json", 
+      "page_count": 7596, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn87060004", 
+        "sn85052021", 
+        "sn86069313", 
+        "sn85052020"
+      ], 
+      "ingested": "2013-07-08T21:41:12-04:00"
+    }, 
+    {
+      "name": "batch_kyu_liberace_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_liberace_ver01.json", 
+      "page_count": 6026, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069309", 
+        "sn86069180", 
+        "sn85052182", 
+        "sn85052117", 
+        "sn85052116", 
+        "sn93062854", 
+        "sn2007058207"
+      ], 
+      "ingested": "2013-07-08T21:50:24-04:00"
+    }, 
+    {
+      "name": "batch_kyu_dylan_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_dylan_ver01.json", 
+      "page_count": 8578, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069657", 
+        "sn86069848", 
+        "sn86069162", 
+        "sn86069867", 
+        "sn87060049"
+      ], 
+      "ingested": "2013-07-08T21:36:53-04:00"
+    }, 
+    {
+      "name": "batch_kyu_one_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_one_ver01.json", 
+      "page_count": 3186, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069873"
+      ], 
+      "ingested": "2013-07-08T21:59:15-04:00"
+    }, 
+    {
+      "name": "batch_kyu_fleetwoodmac_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_fleetwoodmac_ver01.json", 
+      "page_count": 6869, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069561", 
+        "sn87060032", 
+        "sn85052076"
+      ], 
+      "ingested": "2013-07-08T21:38:02-04:00"
+    }, 
+    {
+      "name": "batch_kyu_batman_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_batman_ver01.json", 
+      "page_count": 7473, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069395", 
+        "sn86069675", 
+        "sn86069161", 
+        "sn86069847", 
+        "sn88061168", 
+        "sn86063242", 
+        "sn85052118"
+      ], 
+      "ingested": "2013-07-08T21:33:03-04:00"
+    }, 
+    {
+      "name": "batch_mnhi_blaine_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_mnhi_blaine_ver01.json", 
+      "page_count": 2175, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/mnhi.json", 
+        "name": "Minnesota Historical Society; Saint Paul, MN"
+      }, 
+      "lccns": [
+        "sn83025287"
+      ], 
+      "ingested": "2013-07-08T21:59:55-04:00"
+    }, 
+    {
+      "name": "batch_fu_nine_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_nine_ver01.json", 
+      "page_count": 8187, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn95047348", 
+        "sn95047406", 
+        "sn95047263", 
+        "sn95047417", 
+        "sn88074815", 
+        "sn87062268", 
+        "sn96027213"
+      ], 
+      "ingested": "2013-07-08T21:09:26-04:00"
+    }, 
+    {
+      "name": "batch_kyu_beatles_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_beatles_ver01.json", 
+      "page_count": 5473, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069873"
+      ], 
+      "ingested": "2013-07-08T21:34:16-04:00"
+    }, 
+    {
+      "name": "batch_kyu_hendrix_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_hendrix_ver01.json", 
+      "page_count": 4475, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn87060004", 
+        "sn85052021", 
+        "sn85052020"
+      ], 
+      "ingested": "2013-07-08T21:41:21-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_butterfly_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_butterfly_ver01.json", 
+      "page_count": 7533, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn85047097"
+      ], 
+      "ingested": "2013-07-08T21:28:43-04:00"
+    }, 
+    {
+      "name": "batch_kyu_elvis_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_kyu_elvis_ver01.json", 
+      "page_count": 4146, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/kyu.json", 
+        "name": "University of Kentucky, Lexington, KY"
+      }, 
+      "lccns": [
+        "sn86069848", 
+        "sn86069849", 
+        "sn86069667", 
+        "sn86069620", 
+        "sn86069133"
+      ], 
+      "ingested": "2013-07-08T21:37:19-04:00"
+    }, 
+    {
+      "name": "batch_dlc_willys_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_willys_ver01.json", 
+      "page_count": 5852, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T20:54:08-04:00"
+    }, 
+    {
+      "name": "batch_dlc_jaguar_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_dlc_jaguar_ver01.json", 
+      "page_count": 9875, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/dlc.json", 
+        "name": "Library of Congress, Washington, DC"
+      }, 
+      "lccns": [
+        "sn83030214"
+      ], 
+      "ingested": "2013-07-08T19:54:33-04:00"
+    }, 
+    {
+      "name": "batch_fu_twelve_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_twelve_ver01.json", 
+      "page_count": 5838, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn87062268", 
+        "sn96027111", 
+        "sn84027621"
+      ], 
+      "ingested": "2013-07-08T21:19:21-04:00"
+    }, 
+    {
+      "name": "batch_fu_fourteen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_fourteen_ver01.json", 
+      "page_count": 6880, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn88074815", 
+        "sn95047406", 
+        "sn87062268", 
+        "sn84027621"
+      ], 
+      "ingested": "2013-07-08T21:07:58-04:00"
+    }, 
+    {
+      "name": "batch_hihouml_angel_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_hihouml_angel_ver01.json", 
+      "page_count": 5083, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/hihouml.json", 
+        "name": "University of Hawaii at Manoa; Honolulu, HI"
+      }, 
+      "lccns": [
+        "sn85047097", 
+        "sn85047239"
+      ], 
+      "ingested": "2013-07-08T21:23:22-04:00"
+    }, 
+    {
+      "name": "batch_fu_thirteen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_thirteen_ver01.json", 
+      "page_count": 4985, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn87062268", 
+        "sn96027111", 
+        "sn84027621"
+      ], 
+      "ingested": "2013-07-08T21:17:13-04:00"
+    }, 
+    {
+      "name": "batch_fu_four_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_four_ver01.json", 
+      "page_count": 4757, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn96027724", 
+        "sn87062268", 
+        "sn95047178", 
+        "sn95026908", 
+        "sn95047324"
+      ], 
+      "ingested": "2013-07-08T21:06:54-04:00"
+    }, 
+    {
+      "name": "batch_fu_sixteen_ver01", 
+      "url": "http://chroniclingamerica.loc.gov/batches/batch_fu_sixteen_ver01.json", 
+      "page_count": 4773, 
+      "awardee": {
+        "url": "http://chroniclingamerica.loc.gov/awardees/fu.json", 
+        "name": "University of Florida"
+      }, 
+      "lccns": [
+        "sn84027621", 
+        "sn95047263", 
+        "sn96027111", 
+        "sn88084205", 
+        "sn87062268", 
+        "sn95026788"
+      ], 
+      "ingested": "2013-07-08T21:16:00-04:00"
+    }
+  ], 
+  "next": "http://chroniclingamerica.loc.gov/batches/41.json"
+}
